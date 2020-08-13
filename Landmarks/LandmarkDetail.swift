@@ -28,12 +28,22 @@ struct LandmarkDetail: View {
                     mapItem.name = self.landmark.name
                 mapItem.openInMaps(launchOptions: options)
             }) {
-                Text("Go to")
+                Image(systemName:"arrow.up.right.diamond")
+                    .renderingMode(.original)
+                    .imageScale(.large)
+                    .scaledToFill() // add if you need
+                    .frame(width: 50.0, height: 50.0) // as per your requirement
+                    .background(/*@START_MENU_TOKEN@*/Color.white/*@END_MENU_TOKEN@*/)
+                    .cornerRadius(/*@START_MENU_TOKEN@*/14.0/*@END_MENU_TOKEN@*/)
+                    
+                    
             }
-            .padding()
             .frame(width:UIScreen.main.bounds.width/2, height: UIScreen.main.bounds.height/2, alignment: .center)
             .offset(x: 0, y: -350)
             .padding(.bottom, -330)
+            
+            
+            
             
             CircleImage(image: landmark.image)
                 .offset(x: 0, y: -130)
