@@ -54,10 +54,10 @@ struct LandmarkDetail: View {
                     .font(.title)
 
                 HStack(alignment: .top) {
-                    Text(landmark.park)
-                        .font(.subheadline)
+//                    Text(landmark.park)
+//                        .font(.subheadline)
                     Spacer()
-                    Text(landmark.state)
+                    Text(landmark.city)
                         .font(.subheadline)
                 }
                 

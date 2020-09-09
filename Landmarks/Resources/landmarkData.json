@@ -1,16 +1,30 @@
 [
     {
-        "name": "Turtle Rock",
+        "name": "Radha-Madana-mohana",
         "category": "Featured",
-        "city": "Twentynine Palms",
+        "city": "Vrindavan",
         "state": "California",
         "id": 1001,
         "park": "Joshua Tree National Park",
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
+            "longitude": 77.68759,
+            "latitude": 27.58023
         },
-        "imageName": "turtlerock",
-        "description": "hi \nit's me"
+        "imageName": "1. Radha-Madana-mohana temple",
+        "description": "The Radha-Madana-mohana temple, founded by Srila Sanatana Goswami, occupies a special position in Gaudiya Vaishnavism. Madana-mohana temple was attacked by Muslims during the time of Aurangzeb in around 1670. Later on, new temple was built next to the original structures. Caretakers of these Deities brought Them to Karauli for safety. Radha-Madana-mohan Mandir is \"Visiting card\" of Vrindavan. A very ancient temple was built by Sanatana Goswami. When Lord Krishna left this planet five thousand years ago His great-grandson, Vajranabha, wanted to establish shrines dedicated to Him and to install Deities therein. The first Deity to be carved was Madana-mohana. At that time, the only person still living who had directly seen Krishna was Uttara, the widowed wife of Arjuna's son, Abhimanyu, who had been killed during the Battle of Kuruksetra. Thus Vajranabha called her to be present when the murti of Madana-mohana was being made. When the carving was completed, she inspected the Deity and said: \u201cYes, this looks just like Krsna - up to the waist\".\r\n\r\nDuring the time of Lord Caitanya Madana-mohana was being worshiped by Srila Sanatana Gosvami. Before Lord Caitanya visited Vrindavan Advaita Acarya came there and stayed for some time. It is said that one morning local girls approached him and told about the location of the Modana-Mohan Deity. Following their instructions, he was able to find Him, and then he worshiped this Deity for some time. Before returning to Navadvipa, shortly before the arrival of Mahaprabhu, he entrusted the worship of the Deity to Chauba, the brahmana from Mathura, from whom Srila Sanatana Gosvami received Him. \r\n\r\nMadana-mohan is the Deity Who precides over the stage of Krishna consciousness known as sambandha or the establishing of one\u2019s the forgotten relationship with the Lord. Madana-mohan means \"the attractor of Cupid\".\r\nThe understanding is that if one worships Madana-mohana very attentively, particularly in the earlier stages of devotional service, one will be protected from material desires and thus be able to become fixed in Krsna consciousness, despite being spiritually inexperienced.\r\n\r\nSamadhi of Sanatana Goswami\r\n\r\nIn 1558 on the Guru Purnima day (which normally falls on July) Srila Sanatana Goswami left this world at Manasi-ganga at Govardhana Hill. The devotees though brought his transcendental body to Vrindavana town, where it was buried immediately on the western side of the Madana-mohana temple."
+    },
+    {
+        "name": "Radha-Govinda",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1002,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.69941,
+            "latitude": 27.58141
+        },
+        "imageName": "2. Radha-Govinda",
+        "description": "Sri Govinda was originally established about 5000 years ago by the great-grandson of Lord Krishna. For a long time the Deity was considered lost. Rupa Gosvami experiencing separation sat once under a tree on the banks of the Yamuna. A handsome boy approached him and told him about the hill where cows spontaneously release their milkon the ground every day. The boy suddenly vanished and Rupa Goswami went to this place. He began to dig there and uncovered the Deity of Sri Govindaji. \r\n\r\nThe temple of Sri Radha-Govindaji was built in Vrindavan in 1590 by Maharaj Man Singh, the commander of the army of Emperor Akbar. Maharaj Man Singh was a disciple of Raghunatha Bhatta Goswami, one of the six chief gosvamis of Vrindavan. The Govindaji Temple was a magnificent seven-story mandir with an altar of marble, silver and gold. Architecturally this temple is one of the finest in North India. Several thousand people worked for five full years to complete it. Akbar himself donated red sandstone for its construction. In 1670, during the reign of Aurangzeb, the temple was plundered and destroyed. During the destruction, when there were only 3 floors left, suddenly the earth began to shake and people of Aurangzeb got scared and fled. Worship takes place in the new Govindaji Mandir (located behind the original temple). The original Govindaji is worshiped in Jaipur. On the south side there is a small temple 12 steps away from which there is a cave where the Deity of Govinda was found and where Rupa Goswami was meditating. Also there is the Deity of Yoga-maya on a lion. In addition, there is a stone slab with the imprint of Krishna. In about 1728 (some say - in 1735) Govindaji deity was brought to the city of Amber near Jaipur by Maharaj Jai Singh II for protection from Muslims. Govindaji deity is that, \"who satisfies the cows and the senses engaged in devotional service\". Govinda reveals the abhidheya-jnana to us."
     }
 ]
