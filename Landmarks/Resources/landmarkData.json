@@ -670,5 +670,103 @@
         },
         "imageName": "48. Cira-ghata",
         "description": "This spot is said by some to be where Lord Krsna stole the gopis\u2019 clothes when they were finishing their monthlong Katyayani vow, as described in Srimad Bhagavatam Tenth Canto, Chapter 22. It is, however, more generally accepted that this pastime took place further up the Yamuna, where there is a famous Deity of Katyayani devi at a place with the same name.\r\n\r\nLord Krsna rested here after killing the Kesi demon at Kesi-ghata, which is very close by."
+    },
+    {
+        "name": "? Brahmara-ghata",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1049,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.415633,
+            "latitude": 27.351438
+        },
+        "imageName": "turtlerock",
+        "description": "This ghata is more or less midway between Cira-ghata and the larger Kesi-ghata. Previously this location is said to have been a beautiful garden area where Srimati Radharani and Lord Krsna would often meet to enjoy pastimes amongst the wonderfully fragrant flowering plants. Krsna\u2019s body is so fragrant that often it is difficult for Him to move around secretly, as when people smell His amazing scent they know He can not be too far away. Similarly, Srimati Radharani\u2019s transcendental form is also captivatingly fragrant, so when They would meet here and the natural perfumes of Their bodies would mix with those of the flowers, all the bees in the area would immediately gather and become mad with ecstasy in Their company. Therefore, this place is known as Brahmara-ghata or the ghata of the bees."
+    },
+    {
+        "name": "Kesi-ghata",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1050,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.69875,
+            "latitude": 27.58723
+        },
+        "imageName": "50. Kesi-ghata from Yamuna",
+        "description": "The Yamuna River runs right past Kesi-ghata. This is where Lord Krsna killed the Kesi demon, who came in the form of a horse.\r\n\r\nSrila Bhaktivinoda Thakura says that Kesi represents a type of superiority complex that may develop in the heart of a devotee as they make a little progress in devotional service. It may lead to disrespecting the Deities, guru, and then even bring one to the point of fall-down."
+    },
+    {
+        "name": "? Nidhuvana",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1051,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.69875,
+            "latitude": 27.58723
+        },
+        "imageName": "51. The entrance to Nidhuvana",
+        "description": "error coordinate \r\n\r\nWhen Lord Krsna and the gopis were enjoying the rasa dance pastime, at one point He suddenly left them, taking Srimati Radharani with Him, as is described in the Tenth Canto of Srimad-Bhagavatam. This is the place where that pastime occurred. Nidhuvana can be translated as \u201ca garden or forest where amorous pastimes take place\u201d, and it is here that Rada and Krsna sometimes take rest after becoming fatigued in the course of dancing. The devotees here have made a nice building named Ranga Mahal in which there is a comfortable bed and all types of perfumes and other paraphernalia for the Divine Couple to use in Their transcendental pastimes."
+    },
+    {
+        "name": "Sriji Temple",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1052,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.69832,
+            "latitude": 27.58228
+        },
+        "imageName": "52. Sriji Temple",
+        "description": "The Sriji temple is one of the major Nimbarka temples in Vrndavana. It is a large, spacious building with friendly, helpful pujaris, situated about one hundred meters to the right from the eastern end of Loi Bazaar, on the left hand side of the road. It was opened by the Queen of Jaipur in 1823, and the main Deities are Radha-Anandamanohara and, on the other altars Radha-Vrndavana-candra and Hamsa Gopala. In the temple, there is a substantial library of old Sanskrit and Hindi literatures as well."
+    },
+    {
+        "name": "Sona Gauranga Temple",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1053,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.69937,
+            "latitude": 27.58508
+        },
+        "imageName": "53. Sona Gauranga Temple",
+        "description": "Sona Gauranga means \u201cGolden Gauranga.\u201d These Deities were worshiped by Srila Jagannatha dasa Babaji Maharaja, and are now situated in a temple on the right hand side of the road running immediately opposite the entrance of the Radha-Gopinatha temple, about 250 meters down the road.\r\n\r\nWhen Jagannatha dasa was living at Surya-kunda, he requested his disciple Bihari dasa to install some Deities, and these beautiful brass Gaura-Nitai Deities were made. They glistened like gold, and as news of Their beauty spread around the district, some dacoits decided to steal and sell Them, thinking They were actually made of gold. They broke into the temple one night and tried to take the Deities away, but were unable to lift Them, so, fearing detection, they fled. The next morning Jagannatha dasa found out what had happened and became extremely disturbed about the risks of keeping such Deities, so he then arranged for Bihari to donate Them to a Gosvami family in Vrndavana town. They are still at that location today."
+    },
+    {
+        "name": "Amiya Nimai Temple",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1054,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.70009,
+            "latitude": 27.58319
+        },
+        "imageName": "54. Amiya Nimai Temple",
+        "description": "This very large Deity of Lord Caitanya was first worshiped in Bengal many years ago, and around the end of the 19 th century, He came into the care of a devotee in the line of Gopala Bhatta Gosvami, Sarvabhauma Madhusudana Gosvami. Sarvabhauma was a member of one of the Gosvami families of the Radha-Ramana temple in Vrndavana. One of his disciples in Calcutta, Radha-Govinda Gosvami, installed the Deity in Calcutta. Radha-Govinda Gosvami had no children and, in his later age, wondered who would continue the service of Amiya Nimai, as the Deity had come to be known. Amiya Nimai came to the Gosvami in a dream and told him to contact Krsna Caitanya Gosvami of the Radha-Ramana temple and get him to take Him to Vrndavana.\r\n\r\nFollowing the dream, Radha-Govinda Gosvami and Krsna Caitanya Gosvami discussed the matter for some time in a series of letters without reaching a conclusion, and shortly afterward, Radha-Govinda Gosvami passed away. Krsna Caitanya Gosvami arranged in 1936 that Amiya Nimai be transported from Calcutta to Vrndavana, where He was installed in a room by the rasa-mandala outside the main entrance to the Radha-Ramana temple. The worship went on there for some time, and then in 1954 Krsna Caitanya Gosvami obtained land in the Gopinatha Bazaar area of Vrndavana town, and Amiya Nimai\u2019s new temple was opened there in 1956.\r\n\r\nHe is a magnificent Deity and is worshiped very nicely, still under the care of the devotees of Radha-Ramana temple."
+    },
+    {
+        "name": "Bilvamangala Thakura’s Samadhi",
+        "category": "Featured",
+        "city": "Vrindavan",
+        "state": "California",
+        "id": 1055,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 77.70009,
+            "latitude": 27.58319
+        },
+        "imageName": "55. Bilvamangala Thakura’s Samadhi",
+        "description": "error coordinate \r\n\r\nBilvamangala Thakura appeared in this world in a brahmana family in South India in the 700\u2019s. At some point, he became a devotee of Lord Krsna, although he seems to have had many struggles maintaining spiritual principles.\r\n\r\nOne day, he even made himself completely blind to keep rendering his devotional service. He then continued on to Sri Vrndavana-dhama. \r\n\r\nThe Lord especially liked to hear Bilvamangala Thakura\u2019s Krsna-karnamrta. Once, Bilvama\u00ecgala was sitting under a tree chanting when Krsna in the form of a small boy approached him and told him, \u201cI\u2019m a cowherd boy from the nearby village, and I\u2019ve brought some milk for you in a pot. Please drink it, and I\u2019ll come back later and collect the pot from you.\u201d Bilvamangala drank the milk, which had an amazing taste, and that night the boy appeared to him in a dream and revealed that He was Krsna. When He came back the next morning for the pot, Bilvamangala tried to entice Him to come close to him, so he could grab His worshipable Lord, but Krsna jumped aside, and he missed. Bilvamangala told the Lord, \u201cI\u2019m a blind man, so You may be able to escape from my hands, but you\u2019ll never escape from my heart!\u201d"
     }
 ]

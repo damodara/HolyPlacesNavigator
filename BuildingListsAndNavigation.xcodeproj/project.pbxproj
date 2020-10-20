@@ -21,23 +21,23 @@
 		6A32496725093FD700802F43 /* 36. Bankhandi Mahadeva.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492425093FBC00802F43 /* 36. Bankhandi Mahadeva.jpg */; };
 		6A32496825093FD700802F43 /* 78. Pani-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492525093FBC00802F43 /* 78. Pani-ghata.jpg */; };
 		6A32496925093FD700802F43 /* 58a. Kasisvara Pandita Gosvami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492625093FBC00802F43 /* 58a. Kasisvara Pandita Gosvami.jpg */; };
-		6A32496A25093FD700802F43 /* 51. Kesi-ghata from Yamuna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492725093FBC00802F43 /* 51. Kesi-ghata from Yamuna.jpg */; };
+		6A32496A25093FD700802F43 /* 50. Kesi-ghata from Yamuna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492725093FBC00802F43 /* 50. Kesi-ghata from Yamuna.jpg */; };
 		6A32496B25093FD700802F43 /* 18. Jaipur Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492825093FBD00802F43 /* 18. Jaipur Temple.jpg */; };
 		6A32496C25093FD800802F43 /* 65. Radhakanta Temple of Gopala Guru Gosvami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492925093FBD00802F43 /* 65. Radhakanta Temple of Gopala Guru Gosvami.jpg */; };
 		6A32496D25093FD800802F43 /* 42. The entrance to the Mirabai Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492A25093FBD00802F43 /* 42. The entrance to the Mirabai Temple.jpg */; };
-		6A32496E25093FD800802F43 /* 55. Amiya Nimai Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492B25093FBE00802F43 /* 55. Amiya Nimai Temple.jpg */; };
+		6A32496E25093FD800802F43 /* 54. Amiya Nimai Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492B25093FBE00802F43 /* 54. Amiya Nimai Temple.jpg */; };
 		6A32496F25093FD800802F43 /* 29a. The Srimad-Bhagavatam of Raghunatha Bhatta  Gosvami, said to have been given to him by Lord Caitanya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492C25093FBE00802F43 /* 29a. The Srimad-Bhagavatam of Raghunatha Bhatta  Gosvami, said to have been given to him by Lord Caitanya.jpg */; };
 		6A32497025093FD800802F43 /* 59. Ranganatha Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492D25093FBE00802F43 /* 59. Ranganatha Temple.jpg */; };
-		6A32497125093FD800802F43 /* 53. Sriji Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492E25093FBF00802F43 /* 53. Sriji Temple.jpg */; };
+		6A32497125093FD800802F43 /* 52. Sriji Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492E25093FBF00802F43 /* 52. Sriji Temple.jpg */; };
 		6A32497225093FD800802F43 /* 28. Lord Nrsimhadeva.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492F25093FBF00802F43 /* 28. Lord Nrsimhadeva.jpg */; };
 		6A32497325093FD800802F43 /* 63. Gopesvara Mahadeva Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493025093FBF00802F43 /* 63. Gopesvara Mahadeva Temple.jpg */; };
 		6A32497425093FD800802F43 /* 35a. Sitanatha (Advaita Acarya, the husband of Sita) with Sita in the Sitanatha Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493125093FC000802F43 /* 35a. Sitanatha (Advaita Acarya, the husband of Sita) with Sita in the Sitanatha Temple.jpg */; };
 		6A32497525093FD800802F43 /* 15. Prabodhananda Sarasvati's samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493225093FC000802F43 /* 15. Prabodhananda Sarasvati's samadhi.jpg */; };
 		6A32497625093FD800802F43 /* 45. The entrance to the Sadbhuja Mahaprabhu Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493325093FC000802F43 /* 45. The entrance to the Sadbhuja Mahaprabhu Temple.jpg */; };
-		6A32497725093FD800802F43 /* 56. Bilvamangala Thakura’s Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493425093FC100802F43 /* 56. Bilvamangala Thakura’s Samadhi.jpg */; };
+		6A32497725093FD800802F43 /* 55. Bilvamangala Thakura’s Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493425093FC100802F43 /* 55. Bilvamangala Thakura’s Samadhi.jpg */; };
 		6A32497825093FD800802F43 /* 70. Jnana  Gudri.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493525093FC100802F43 /* 70. Jnana  Gudri.jpg */; };
 		6A32497925093FD800802F43 /* 43. The entrance to the Shahji Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493625093FC100802F43 /* 43. The entrance to the Shahji Temple.jpg */; };
-		6A32497A25093FD800802F43 /* 54. Sona Gauranga Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493725093FC200802F43 /* 54. Sona Gauranga Temple.jpg */; };
+		6A32497A25093FD800802F43 /* 53. Sona Gauranga Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493725093FC200802F43 /* 53. Sona Gauranga Temple.jpg */; };
 		6A32497B25093FD800802F43 /* 72. Tekari Rani Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493825093FC200802F43 /* 72. Tekari Rani Temple.jpg */; };
 		6A32497C25093FD800802F43 /* 48. Cira-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493925093FC300802F43 /* 48. Cira-ghata.jpg */; };
 		6A32497D25093FD800802F43 /* 35. Murari Gupta Gaura-Nitai Deities.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493A25093FC600802F43 /* 35. Murari Gupta Gaura-Nitai Deities.jpg */; };
@@ -79,7 +79,7 @@
 		6A3249A225093FD800802F43 /* 13. Mohana Ter-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495F25093FD600802F43 /* 13. Mohana Ter-ghata.jpg */; };
 		6A3249A325093FD800802F43 /* 26. Bankebihari Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496025093FD700802F43 /* 26. Bankebihari Temple.jpg */; };
 		6A3249A425093FD800802F43 /* 66. Srinivasa Acarya's Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496125093FD700802F43 /* 66. Srinivasa Acarya's Samadhi.jpg */; };
-		6A3249A525093FD800802F43 /* 52. The entrance to Nidhuvana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496225093FD700802F43 /* 52. The entrance to Nidhuvana.jpg */; };
+		6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */; };
 		B7394866229F194000C47603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394865229F194000C47603 /* AppDelegate.swift */; };
 		B7394868229F194000C47603 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394867229F194000C47603 /* SceneDelegate.swift */; };
 		B739486A229F194000C47603 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394869229F194000C47603 /* LandmarkDetail.swift */; };
@@ -123,23 +123,23 @@
 		6A32492425093FBC00802F43 /* 36. Bankhandi Mahadeva.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "36. Bankhandi Mahadeva.jpg"; sourceTree = "<group>"; };
 		6A32492525093FBC00802F43 /* 78. Pani-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "78. Pani-ghata.jpg"; sourceTree = "<group>"; };
 		6A32492625093FBC00802F43 /* 58a. Kasisvara Pandita Gosvami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "58a. Kasisvara Pandita Gosvami.jpg"; sourceTree = "<group>"; };
-		6A32492725093FBC00802F43 /* 51. Kesi-ghata from Yamuna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "51. Kesi-ghata from Yamuna.jpg"; sourceTree = "<group>"; };
+		6A32492725093FBC00802F43 /* 50. Kesi-ghata from Yamuna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "50. Kesi-ghata from Yamuna.jpg"; sourceTree = "<group>"; };
 		6A32492825093FBD00802F43 /* 18. Jaipur Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "18. Jaipur Temple.jpg"; sourceTree = "<group>"; };
 		6A32492925093FBD00802F43 /* 65. Radhakanta Temple of Gopala Guru Gosvami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "65. Radhakanta Temple of Gopala Guru Gosvami.jpg"; sourceTree = "<group>"; };
 		6A32492A25093FBD00802F43 /* 42. The entrance to the Mirabai Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "42. The entrance to the Mirabai Temple.jpg"; sourceTree = "<group>"; };
-		6A32492B25093FBE00802F43 /* 55. Amiya Nimai Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "55. Amiya Nimai Temple.jpg"; sourceTree = "<group>"; };
+		6A32492B25093FBE00802F43 /* 54. Amiya Nimai Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "54. Amiya Nimai Temple.jpg"; sourceTree = "<group>"; };
 		6A32492C25093FBE00802F43 /* 29a. The Srimad-Bhagavatam of Raghunatha Bhatta  Gosvami, said to have been given to him by Lord Caitanya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "29a. The Srimad-Bhagavatam of Raghunatha Bhatta  Gosvami, said to have been given to him by Lord Caitanya.jpg"; sourceTree = "<group>"; };
 		6A32492D25093FBE00802F43 /* 59. Ranganatha Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "59. Ranganatha Temple.jpg"; sourceTree = "<group>"; };
-		6A32492E25093FBF00802F43 /* 53. Sriji Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "53. Sriji Temple.jpg"; sourceTree = "<group>"; };
+		6A32492E25093FBF00802F43 /* 52. Sriji Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "52. Sriji Temple.jpg"; sourceTree = "<group>"; };
 		6A32492F25093FBF00802F43 /* 28. Lord Nrsimhadeva.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "28. Lord Nrsimhadeva.jpg"; sourceTree = "<group>"; };
 		6A32493025093FBF00802F43 /* 63. Gopesvara Mahadeva Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "63. Gopesvara Mahadeva Temple.jpg"; sourceTree = "<group>"; };
 		6A32493125093FC000802F43 /* 35a. Sitanatha (Advaita Acarya, the husband of Sita) with Sita in the Sitanatha Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "35a. Sitanatha (Advaita Acarya, the husband of Sita) with Sita in the Sitanatha Temple.jpg"; sourceTree = "<group>"; };
 		6A32493225093FC000802F43 /* 15. Prabodhananda Sarasvati's samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "15. Prabodhananda Sarasvati's samadhi.jpg"; sourceTree = "<group>"; };
 		6A32493325093FC000802F43 /* 45. The entrance to the Sadbhuja Mahaprabhu Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "45. The entrance to the Sadbhuja Mahaprabhu Temple.jpg"; sourceTree = "<group>"; };
-		6A32493425093FC100802F43 /* 56. Bilvamangala Thakura’s Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "56. Bilvamangala Thakura’s Samadhi.jpg"; sourceTree = "<group>"; };
+		6A32493425093FC100802F43 /* 55. Bilvamangala Thakura’s Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "55. Bilvamangala Thakura’s Samadhi.jpg"; sourceTree = "<group>"; };
 		6A32493525093FC100802F43 /* 70. Jnana  Gudri.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "70. Jnana  Gudri.jpg"; sourceTree = "<group>"; };
 		6A32493625093FC100802F43 /* 43. The entrance to the Shahji Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "43. The entrance to the Shahji Temple.jpg"; sourceTree = "<group>"; };
-		6A32493725093FC200802F43 /* 54. Sona Gauranga Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "54. Sona Gauranga Temple.jpg"; sourceTree = "<group>"; };
+		6A32493725093FC200802F43 /* 53. Sona Gauranga Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "53. Sona Gauranga Temple.jpg"; sourceTree = "<group>"; };
 		6A32493825093FC200802F43 /* 72. Tekari Rani Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "72. Tekari Rani Temple.jpg"; sourceTree = "<group>"; };
 		6A32493925093FC300802F43 /* 48. Cira-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "48. Cira-ghata.jpg"; sourceTree = "<group>"; };
 		6A32493A25093FC600802F43 /* 35. Murari Gupta Gaura-Nitai Deities.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "35. Murari Gupta Gaura-Nitai Deities.jpg"; sourceTree = "<group>"; };
@@ -181,7 +181,7 @@
 		6A32495F25093FD600802F43 /* 13. Mohana Ter-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "13. Mohana Ter-ghata.jpg"; sourceTree = "<group>"; };
 		6A32496025093FD700802F43 /* 26. Bankebihari Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "26. Bankebihari Temple.jpg"; sourceTree = "<group>"; };
 		6A32496125093FD700802F43 /* 66. Srinivasa Acarya's Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "66. Srinivasa Acarya's Samadhi.jpg"; sourceTree = "<group>"; };
-		6A32496225093FD700802F43 /* 52. The entrance to Nidhuvana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "52. The entrance to Nidhuvana.jpg"; sourceTree = "<group>"; };
+		6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "51. The entrance to Nidhuvana.jpg"; sourceTree = "<group>"; };
 		B7394862229F194000C47603 /* HP Navigator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HP Navigator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7394865229F194000C47603 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7394867229F194000C47603 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -349,12 +349,12 @@
 				6A32495D25093FD600802F43 /* 46. The entrance to the Vamsi Gopala Temple.jpg */,
 				6A32492025093FBA00802F43 /* 47. Yugala Kisora Temple.jpg */,
 				6A32493925093FC300802F43 /* 48. Cira-ghata.jpg */,
-				6A32492725093FBC00802F43 /* 51. Kesi-ghata from Yamuna.jpg */,
-				6A32496225093FD700802F43 /* 52. The entrance to Nidhuvana.jpg */,
-				6A32492E25093FBF00802F43 /* 53. Sriji Temple.jpg */,
-				6A32493725093FC200802F43 /* 54. Sona Gauranga Temple.jpg */,
-				6A32492B25093FBE00802F43 /* 55. Amiya Nimai Temple.jpg */,
-				6A32493425093FC100802F43 /* 56. Bilvamangala Thakura’s Samadhi.jpg */,
+				6A32492725093FBC00802F43 /* 50. Kesi-ghata from Yamuna.jpg */,
+				6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */,
+				6A32492E25093FBF00802F43 /* 52. Sriji Temple.jpg */,
+				6A32493725093FC200802F43 /* 53. Sona Gauranga Temple.jpg */,
+				6A32492B25093FBE00802F43 /* 54. Amiya Nimai Temple.jpg */,
+				6A32493425093FC100802F43 /* 55. Bilvamangala Thakura’s Samadhi.jpg */,
 				6A32495225093FD200802F43 /* 57. Govinda-kunda.jpg */,
 				6A32494825093FCF00802F43 /* 58. The 64 Samadhis Garden.jpg */,
 				6A32492625093FBC00802F43 /* 58a. Kasisvara Pandita Gosvami.jpg */,
@@ -462,7 +462,7 @@
 				B739489A229F292F00C47603 /* silversalmoncreek.jpg in Resources */,
 				6A3249A225093FD800802F43 /* 13. Mohana Ter-ghata.jpg in Resources */,
 				6A32491D25093E0800802F43 /* 4. Radha-Damodara in Vrindavana.jpg in Resources */,
-				6A32497725093FD800802F43 /* 56. Bilvamangala Thakura’s Samadhi.jpg in Resources */,
+				6A32497725093FD800802F43 /* 55. Bilvamangala Thakura’s Samadhi.jpg in Resources */,
 				6A32498725093FD800802F43 /* 73. Sudama Kuti.jpg in Resources */,
 				6A32499825093FD800802F43 /* 21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg in Resources */,
 				6A32499025093FD800802F43 /* 75. The entrance to the Jagannatha-ghata Temple.jpg in Resources */,
@@ -477,7 +477,7 @@
 				6A32491B25093E0800802F43 /* 7. Radha Syamasundara.jpg in Resources */,
 				6A32499625093FD800802F43 /* 76. Katyayani Temple.jpg in Resources */,
 				6A32499C25093FD800802F43 /* 82. Batharan Bihari Temple.jpg in Resources */,
-				6A32497A25093FD800802F43 /* 54. Sona Gauranga Temple.jpg in Resources */,
+				6A32497A25093FD800802F43 /* 53. Sona Gauranga Temple.jpg in Resources */,
 				B7394872229F194200C47603 /* LaunchScreen.storyboard in Resources */,
 				6A3249A425093FD800802F43 /* 66. Srinivasa Acarya's Samadhi.jpg in Resources */,
 				6A32499925093FD800802F43 /* 32. Imli Tala.jpg in Resources */,
@@ -506,7 +506,7 @@
 				6A32491E25093E0800802F43 /* 3. Radha Gopenatha in Vrindavana.jpg in Resources */,
 				6A32497D25093FD800802F43 /* 35. Murari Gupta Gaura-Nitai Deities.jpg in Resources */,
 				6A32497E25093FD800802F43 /* 60. Brahma-kunda.jpg in Resources */,
-				6A3249A525093FD800802F43 /* 52. The entrance to Nidhuvana.jpg in Resources */,
+				6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */,
 				6A32498825093FD800802F43 /* 24. The entrance at Advaita Vata.jpg in Resources */,
 				6A32498925093FD800802F43 /* 81. Caitanya Visrama Sthali.jpg in Resources */,
 				6A32498625093FD800802F43 /* 10 and 12. The altar at the Varaha Temple.jpg in Resources */,
@@ -535,15 +535,15 @@
 				B7394898229F292F00C47603 /* stmarylake.jpg in Resources */,
 				6A32496425093FD700802F43 /* 61. Lal Babu Temple.jpg in Resources */,
 				B7394892229F292F00C47603 /* yukon_charleyrivers.jpg in Resources */,
-				6A32497125093FD800802F43 /* 53. Sriji Temple.jpg in Resources */,
+				6A32497125093FD800802F43 /* 52. Sriji Temple.jpg in Resources */,
 				6A32499A25093FD800802F43 /* 64. Vamsivata.jpg in Resources */,
 				6A32497F25093FD800802F43 /* 20. Kaliya Mardana Temple.jpg in Resources */,
 				6A32498325093FD800802F43 /* 14. The Deities at Kallya-ghata.jpg in Resources */,
 				6A32499425093FD800802F43 /* 29. Bhattaji Temple.jpg in Resources */,
-				6A32496E25093FD800802F43 /* 55. Amiya Nimai Temple.jpg in Resources */,
+				6A32496E25093FD800802F43 /* 54. Amiya Nimai Temple.jpg in Resources */,
 				6A32497825093FD800802F43 /* 70. Jnana  Gudri.jpg in Resources */,
 				6A32491F25093E0800802F43 /* 1. Radha-Madana-mohana temple.jpg in Resources */,
-				6A32496A25093FD700802F43 /* 51. Kesi-ghata from Yamuna.jpg in Resources */,
+				6A32496A25093FD700802F43 /* 50. Kesi-ghata from Yamuna.jpg in Resources */,
 				6A32496C25093FD800802F43 /* 65. Radhakanta Temple of Gopala Guru Gosvami.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
