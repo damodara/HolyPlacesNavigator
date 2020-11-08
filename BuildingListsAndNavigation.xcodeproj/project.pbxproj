@@ -19,7 +19,7 @@
 		6A32496525093FD700802F43 /* 16. Davanala-kunda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492225093FBB00802F43 /* 16. Davanala-kunda.jpg */; };
 		6A32496625093FD700802F43 /* 8. Krsna-Balarama.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492325093FBB00802F43 /* 8. Krsna-Balarama.jpg */; };
 		6A32496725093FD700802F43 /* 36. Bankhandi Mahadeva.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492425093FBC00802F43 /* 36. Bankhandi Mahadeva.jpg */; };
-		6A32496825093FD700802F43 /* 78. Pani-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492525093FBC00802F43 /* 78. Pani-ghata.jpg */; };
+		6A32496825093FD700802F43 /* 77. Pani-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492525093FBC00802F43 /* 77. Pani-ghata.jpg */; };
 		6A32496925093FD700802F43 /* 58a. Kasisvara Pandita Gosvami.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492625093FBC00802F43 /* 58a. Kasisvara Pandita Gosvami.jpg */; };
 		6A32496A25093FD700802F43 /* 50. Kesi-ghata from Yamuna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492725093FBC00802F43 /* 50. Kesi-ghata from Yamuna.jpg */; };
 		6A32496B25093FD700802F43 /* 18. Jaipur Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32492825093FBD00802F43 /* 18. Jaipur Temple.jpg */; };
@@ -44,33 +44,33 @@
 		6A32497E25093FD800802F43 /* 59. Brahma-kunda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493B25093FCA00802F43 /* 59. Brahma-kunda.jpg */; };
 		6A32497F25093FD800802F43 /* 20. Kaliya Mardana Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493C25093FCB00802F43 /* 20. Kaliya Mardana Temple.jpg */; };
 		6A32498025093FD800802F43 /* 34. Paurnamasi devi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493D25093FCB00802F43 /* 34. Paurnamasi devi.jpg */; };
-		6A32498125093FD800802F43 /* 83. Akrura-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493E25093FCC00802F43 /* 83. Akrura-ghata.jpg */; };
-		6A32498225093FD800802F43 /* 80. Raja-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493F25093FCC00802F43 /* 80. Raja-ghata.jpg */; };
+		6A32498125093FD800802F43 /* 82. Akrura-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493E25093FCC00802F43 /* 82. Akrura-ghata.jpg */; };
+		6A32498225093FD800802F43 /* 79. Raja-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32493F25093FCC00802F43 /* 79. Raja-ghata.jpg */; };
 		6A32498325093FD800802F43 /* 14. The Deities at Kallya-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494025093FCD00802F43 /* 14. The Deities at Kallya-ghata.jpg */; };
 		6A32498425093FD800802F43 /* 19. Taras Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494125093FCD00802F43 /* 19. Taras Temple.jpg */; };
 		6A32498625093FD800802F43 /* 10 and 12. The altar at the Varaha Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494325093FCD00802F43 /* 10 and 12. The altar at the Varaha Temple.jpg */; };
-		6A32498725093FD800802F43 /* 73. Sudama Kuti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494425093FCE00802F43 /* 73. Sudama Kuti.jpg */; };
+		6A32498725093FD800802F43 /* 72. Sudama Kuti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494425093FCE00802F43 /* 72. Sudama Kuti.jpg */; };
 		6A32498825093FD800802F43 /* 24. The entrance at Advaita Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494525093FCE00802F43 /* 24. The entrance at Advaita Vata.jpg */; };
-		6A32498925093FD800802F43 /* 81. Caitanya Visrama Sthali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494625093FCF00802F43 /* 81. Caitanya Visrama Sthali.jpg */; };
+		6A32498925093FD800802F43 /* 80. Caitanya Visrama Sthali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494625093FCF00802F43 /* 80. Caitanya Visrama Sthali.jpg */; };
 		6A32498A25093FD800802F43 /* 44. Govinda-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494725093FCF00802F43 /* 44. Govinda-ghata.jpg */; };
 		6A32498B25093FD800802F43 /* 57. The 64 Samadhis Garden.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494825093FCF00802F43 /* 57. The 64 Samadhis Garden.jpg */; };
 		6A32498C25093FD800802F43 /* 68. Yugala-Kisora Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494925093FCF00802F43 /* 68. Yugala-Kisora Temple.jpg */; };
 		6A32498D25093FD800802F43 /* 9. Krsna-Balarama Tree.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494A25093FD000802F43 /* 9. Krsna-Balarama Tree.jpg */; };
 		6A32498E25093FD800802F43 /* 66. Radha-Syamaraya Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494B25093FD000802F43 /* 66. Radha-Syamaraya Temple.jpg */; };
 		6A32498F25093FD800802F43 /* 70. Radha-Braja-mohana Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494C25093FD100802F43 /* 70. Radha-Braja-mohana Temple.jpg */; };
-		6A32499025093FD800802F43 /* 75. The entrance to the Jagannatha-ghata Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494D25093FD100802F43 /* 75. The entrance to the Jagannatha-ghata Temple.jpg */; };
+		6A32499025093FD800802F43 /* 74. The entrance to the Jagannatha-ghata Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494D25093FD100802F43 /* 74. The entrance to the Jagannatha-ghata Temple.jpg */; };
 		6A32499125093FD800802F43 /* 27. Radha-Vallabha Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494E25093FD100802F43 /* 27. Radha-Vallabha Temple.jpg */; };
-		6A32499225093FD800802F43 /* 77. Rangaji Gardens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494F25093FD200802F43 /* 77. Rangaji Gardens.jpg */; };
-		6A32499325093FD800802F43 /* 74. Deity of Lord Rama at the Tulasi Rama Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495025093FD200802F43 /* 74. Deity of Lord Rama at the Tulasi Rama Temple.jpg */; };
+		6A32499225093FD800802F43 /* 76. Rangaji Gardens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32494F25093FD200802F43 /* 76. Rangaji Gardens.jpg */; };
+		6A32499325093FD800802F43 /* 73. Deity of Lord Rama at the Tulasi Rama Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495025093FD200802F43 /* 73. Deity of Lord Rama at the Tulasi Rama Temple.jpg */; };
 		6A32499425093FD800802F43 /* 29. Bhattaji Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495125093FD200802F43 /* 29. Bhattaji Temple.jpg */; };
 		6A32499525093FD800802F43 /* 56. Govinda-kunda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495225093FD200802F43 /* 56. Govinda-kunda.jpg */; };
-		6A32499625093FD800802F43 /* 76. Katyayani Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495325093FD300802F43 /* 76. Katyayani Temple.jpg */; };
+		6A32499625093FD800802F43 /* 75. Katyayani Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495325093FD300802F43 /* 75. Katyayani Temple.jpg */; };
 		6A32499725093FD800802F43 /* 41. The entrance  Jaru Mandala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495425093FD300802F43 /* 41. The entrance  Jaru Mandala.jpg */; };
 		6A32499825093FD800802F43 /* 21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495525093FD300802F43 /* 21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg */; };
 		6A32499925093FD800802F43 /* 32. Imli Tala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495625093FD400802F43 /* 32. Imli Tala.jpg */; };
 		6A32499A25093FD800802F43 /* 63. Vamsivata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495725093FD400802F43 /* 63. Vamsivata.jpg */; };
 		6A32499B25093FD800802F43 /* 17. Visrama-kunda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495825093FD400802F43 /* 17. Visrama-kunda.jpg */; };
-		6A32499C25093FD800802F43 /* 82. Batharan Bihari Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495925093FD500802F43 /* 82. Batharan Bihari Temple.jpg */; };
+		6A32499C25093FD800802F43 /* 81. Batharan Bihari Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495925093FD500802F43 /* 81. Batharan Bihari Temple.jpg */; };
 		6A32499D25093FD800802F43 /* 38. The entrance to the Salagrama Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495A25093FD500802F43 /* 38. The entrance to the Salagrama Temple.jpg */; };
 		6A32499E25093FD800802F43 /* 25. Asta-sakhi Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495B25093FD500802F43 /* 25. Asta-sakhi Temple.jpg */; };
 		6A32499F25093FD800802F43 /* 33. Kisori-kunja and Seva-kunja.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32495C25093FD600802F43 /* 33. Kisori-kunja and Seva-kunja.jpg */; };
@@ -121,7 +121,7 @@
 		6A32492225093FBB00802F43 /* 16. Davanala-kunda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "16. Davanala-kunda.jpg"; sourceTree = "<group>"; };
 		6A32492325093FBB00802F43 /* 8. Krsna-Balarama.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "8. Krsna-Balarama.jpg"; sourceTree = "<group>"; };
 		6A32492425093FBC00802F43 /* 36. Bankhandi Mahadeva.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "36. Bankhandi Mahadeva.jpg"; sourceTree = "<group>"; };
-		6A32492525093FBC00802F43 /* 78. Pani-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "78. Pani-ghata.jpg"; sourceTree = "<group>"; };
+		6A32492525093FBC00802F43 /* 77. Pani-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "77. Pani-ghata.jpg"; sourceTree = "<group>"; };
 		6A32492625093FBC00802F43 /* 58a. Kasisvara Pandita Gosvami.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "58a. Kasisvara Pandita Gosvami.jpg"; sourceTree = "<group>"; };
 		6A32492725093FBC00802F43 /* 50. Kesi-ghata from Yamuna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "50. Kesi-ghata from Yamuna.jpg"; sourceTree = "<group>"; };
 		6A32492825093FBD00802F43 /* 18. Jaipur Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "18. Jaipur Temple.jpg"; sourceTree = "<group>"; };
@@ -146,33 +146,33 @@
 		6A32493B25093FCA00802F43 /* 59. Brahma-kunda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "59. Brahma-kunda.jpg"; sourceTree = "<group>"; };
 		6A32493C25093FCB00802F43 /* 20. Kaliya Mardana Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20. Kaliya Mardana Temple.jpg"; sourceTree = "<group>"; };
 		6A32493D25093FCB00802F43 /* 34. Paurnamasi devi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "34. Paurnamasi devi.jpg"; sourceTree = "<group>"; };
-		6A32493E25093FCC00802F43 /* 83. Akrura-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "83. Akrura-ghata.jpg"; sourceTree = "<group>"; };
-		6A32493F25093FCC00802F43 /* 80. Raja-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "80. Raja-ghata.jpg"; sourceTree = "<group>"; };
+		6A32493E25093FCC00802F43 /* 82. Akrura-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "82. Akrura-ghata.jpg"; sourceTree = "<group>"; };
+		6A32493F25093FCC00802F43 /* 79. Raja-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "79. Raja-ghata.jpg"; sourceTree = "<group>"; };
 		6A32494025093FCD00802F43 /* 14. The Deities at Kallya-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "14. The Deities at Kallya-ghata.jpg"; sourceTree = "<group>"; };
 		6A32494125093FCD00802F43 /* 19. Taras Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "19. Taras Temple.jpg"; sourceTree = "<group>"; };
 		6A32494325093FCD00802F43 /* 10 and 12. The altar at the Varaha Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "10 and 12. The altar at the Varaha Temple.jpg"; sourceTree = "<group>"; };
-		6A32494425093FCE00802F43 /* 73. Sudama Kuti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "73. Sudama Kuti.jpg"; sourceTree = "<group>"; };
+		6A32494425093FCE00802F43 /* 72. Sudama Kuti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "72. Sudama Kuti.jpg"; sourceTree = "<group>"; };
 		6A32494525093FCE00802F43 /* 24. The entrance at Advaita Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "24. The entrance at Advaita Vata.jpg"; sourceTree = "<group>"; };
-		6A32494625093FCF00802F43 /* 81. Caitanya Visrama Sthali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "81. Caitanya Visrama Sthali.jpg"; sourceTree = "<group>"; };
+		6A32494625093FCF00802F43 /* 80. Caitanya Visrama Sthali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "80. Caitanya Visrama Sthali.jpg"; sourceTree = "<group>"; };
 		6A32494725093FCF00802F43 /* 44. Govinda-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "44. Govinda-ghata.jpg"; sourceTree = "<group>"; };
 		6A32494825093FCF00802F43 /* 57. The 64 Samadhis Garden.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "57. The 64 Samadhis Garden.jpg"; sourceTree = "<group>"; };
 		6A32494925093FCF00802F43 /* 68. Yugala-Kisora Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "68. Yugala-Kisora Temple.jpg"; sourceTree = "<group>"; };
 		6A32494A25093FD000802F43 /* 9. Krsna-Balarama Tree.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "9. Krsna-Balarama Tree.jpg"; sourceTree = "<group>"; };
 		6A32494B25093FD000802F43 /* 66. Radha-Syamaraya Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "66. Radha-Syamaraya Temple.jpg"; sourceTree = "<group>"; };
 		6A32494C25093FD100802F43 /* 70. Radha-Braja-mohana Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "70. Radha-Braja-mohana Temple.jpg"; sourceTree = "<group>"; };
-		6A32494D25093FD100802F43 /* 75. The entrance to the Jagannatha-ghata Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "75. The entrance to the Jagannatha-ghata Temple.jpg"; sourceTree = "<group>"; };
+		6A32494D25093FD100802F43 /* 74. The entrance to the Jagannatha-ghata Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "74. The entrance to the Jagannatha-ghata Temple.jpg"; sourceTree = "<group>"; };
 		6A32494E25093FD100802F43 /* 27. Radha-Vallabha Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "27. Radha-Vallabha Temple.jpg"; sourceTree = "<group>"; };
-		6A32494F25093FD200802F43 /* 77. Rangaji Gardens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "77. Rangaji Gardens.jpg"; sourceTree = "<group>"; };
-		6A32495025093FD200802F43 /* 74. Deity of Lord Rama at the Tulasi Rama Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "74. Deity of Lord Rama at the Tulasi Rama Temple.jpg"; sourceTree = "<group>"; };
+		6A32494F25093FD200802F43 /* 76. Rangaji Gardens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "76. Rangaji Gardens.jpg"; sourceTree = "<group>"; };
+		6A32495025093FD200802F43 /* 73. Deity of Lord Rama at the Tulasi Rama Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "73. Deity of Lord Rama at the Tulasi Rama Temple.jpg"; sourceTree = "<group>"; };
 		6A32495125093FD200802F43 /* 29. Bhattaji Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "29. Bhattaji Temple.jpg"; sourceTree = "<group>"; };
 		6A32495225093FD200802F43 /* 56. Govinda-kunda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "56. Govinda-kunda.jpg"; sourceTree = "<group>"; };
-		6A32495325093FD300802F43 /* 76. Katyayani Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "76. Katyayani Temple.jpg"; sourceTree = "<group>"; };
+		6A32495325093FD300802F43 /* 75. Katyayani Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "75. Katyayani Temple.jpg"; sourceTree = "<group>"; };
 		6A32495425093FD300802F43 /* 41. The entrance  Jaru Mandala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "41. The entrance  Jaru Mandala.jpg"; sourceTree = "<group>"; };
 		6A32495525093FD300802F43 /* 21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg"; sourceTree = "<group>"; };
 		6A32495625093FD400802F43 /* 32. Imli Tala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "32. Imli Tala.jpg"; sourceTree = "<group>"; };
 		6A32495725093FD400802F43 /* 63. Vamsivata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "63. Vamsivata.jpg"; sourceTree = "<group>"; };
 		6A32495825093FD400802F43 /* 17. Visrama-kunda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "17. Visrama-kunda.jpg"; sourceTree = "<group>"; };
-		6A32495925093FD500802F43 /* 82. Batharan Bihari Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "82. Batharan Bihari Temple.jpg"; sourceTree = "<group>"; };
+		6A32495925093FD500802F43 /* 81. Batharan Bihari Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "81. Batharan Bihari Temple.jpg"; sourceTree = "<group>"; };
 		6A32495A25093FD500802F43 /* 38. The entrance to the Salagrama Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "38. The entrance to the Salagrama Temple.jpg"; sourceTree = "<group>"; };
 		6A32495B25093FD500802F43 /* 25. Asta-sakhi Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "25. Asta-sakhi Temple.jpg"; sourceTree = "<group>"; };
 		6A32495C25093FD600802F43 /* 33. Kisori-kunja and Seva-kunja.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "33. Kisori-kunja and Seva-kunja.jpg"; sourceTree = "<group>"; };
@@ -371,16 +371,16 @@
 				6A32493525093FC100802F43 /* 69. Jnana  Gudri.jpg */,
 				6A32494C25093FD100802F43 /* 70. Radha-Braja-mohana Temple.jpg */,
 				6A32493825093FC200802F43 /* 71. Tekari Rani Temple.jpg */,
-				6A32494425093FCE00802F43 /* 73. Sudama Kuti.jpg */,
-				6A32495025093FD200802F43 /* 74. Deity of Lord Rama at the Tulasi Rama Temple.jpg */,
-				6A32494D25093FD100802F43 /* 75. The entrance to the Jagannatha-ghata Temple.jpg */,
-				6A32495325093FD300802F43 /* 76. Katyayani Temple.jpg */,
-				6A32494F25093FD200802F43 /* 77. Rangaji Gardens.jpg */,
-				6A32492525093FBC00802F43 /* 78. Pani-ghata.jpg */,
-				6A32493F25093FCC00802F43 /* 80. Raja-ghata.jpg */,
-				6A32494625093FCF00802F43 /* 81. Caitanya Visrama Sthali.jpg */,
-				6A32495925093FD500802F43 /* 82. Batharan Bihari Temple.jpg */,
-				6A32493E25093FCC00802F43 /* 83. Akrura-ghata.jpg */,
+				6A32494425093FCE00802F43 /* 72. Sudama Kuti.jpg */,
+				6A32495025093FD200802F43 /* 73. Deity of Lord Rama at the Tulasi Rama Temple.jpg */,
+				6A32494D25093FD100802F43 /* 74. The entrance to the Jagannatha-ghata Temple.jpg */,
+				6A32495325093FD300802F43 /* 75. Katyayani Temple.jpg */,
+				6A32494F25093FD200802F43 /* 76. Rangaji Gardens.jpg */,
+				6A32492525093FBC00802F43 /* 77. Pani-ghata.jpg */,
+				6A32493F25093FCC00802F43 /* 79. Raja-ghata.jpg */,
+				6A32494625093FCF00802F43 /* 80. Caitanya Visrama Sthali.jpg */,
+				6A32495925093FD500802F43 /* 81. Batharan Bihari Temple.jpg */,
+				6A32493E25093FCC00802F43 /* 82. Akrura-ghata.jpg */,
 				B739488E229F292E00C47603 /* landmarkData.json */,
 				B7394890229F292F00C47603 /* chilkoottrail.jpg */,
 				B739488F229F292F00C47603 /* chincoteague.jpg */,
@@ -457,26 +457,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A32498025093FD800802F43 /* 34. Paurnamasi devi.jpg in Resources */,
-				6A32496825093FD700802F43 /* 78. Pani-ghata.jpg in Resources */,
+				6A32496825093FD700802F43 /* 77. Pani-ghata.jpg in Resources */,
 				6A32496725093FD700802F43 /* 36. Bankhandi Mahadeva.jpg in Resources */,
 				B739489A229F292F00C47603 /* silversalmoncreek.jpg in Resources */,
 				6A3249A225093FD800802F43 /* 13. Mohana Ter-ghata.jpg in Resources */,
 				6A32491D25093E0800802F43 /* 4. Radha-Damodara in Vrindavana.jpg in Resources */,
 				6A32497725093FD800802F43 /* 55. Bilvamangala Thakura’s Samadhi.jpg in Resources */,
-				6A32498725093FD800802F43 /* 73. Sudama Kuti.jpg in Resources */,
+				6A32498725093FD800802F43 /* 72. Sudama Kuti.jpg in Resources */,
 				6A32499825093FD800802F43 /* 21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg in Resources */,
-				6A32499025093FD800802F43 /* 75. The entrance to the Jagannatha-ghata Temple.jpg in Resources */,
+				6A32499025093FD800802F43 /* 74. The entrance to the Jagannatha-ghata Temple.jpg in Resources */,
 				6A32496F25093FD800802F43 /* 29a. The Srimad-Bhagavatam of Raghunatha Bhatta  Gosvami, said to have been given to him by Lord Caitanya.jpg in Resources */,
 				6A32498E25093FD800802F43 /* 66. Radha-Syamaraya Temple.jpg in Resources */,
 				B7394894229F292F00C47603 /* lakemcdonald.jpg in Resources */,
-				6A32498125093FD800802F43 /* 83. Akrura-ghata.jpg in Resources */,
+				6A32498125093FD800802F43 /* 82. Akrura-ghata.jpg in Resources */,
 				6A32497925093FD800802F43 /* 43. The entrance to the Shahji Temple.jpg in Resources */,
 				6A32497C25093FD800802F43 /* 48. Cira-ghata.jpg in Resources */,
 				6A32491A25093E0800802F43 /* 5. Radha-Ramana.jpg in Resources */,
 				6A32497325093FD800802F43 /* 62. Gopesvara Mahadeva Temple.jpg in Resources */,
 				6A32491B25093E0800802F43 /* 7. Radha Syamasundara.jpg in Resources */,
-				6A32499625093FD800802F43 /* 76. Katyayani Temple.jpg in Resources */,
-				6A32499C25093FD800802F43 /* 82. Batharan Bihari Temple.jpg in Resources */,
+				6A32499625093FD800802F43 /* 75. Katyayani Temple.jpg in Resources */,
+				6A32499C25093FD800802F43 /* 81. Batharan Bihari Temple.jpg in Resources */,
 				6A32497A25093FD800802F43 /* 53. Sona Gauranga Temple.jpg in Resources */,
 				B7394872229F194200C47603 /* LaunchScreen.storyboard in Resources */,
 				6A3249A425093FD800802F43 /* 65. Srinivasa Acarya's Samadhi.jpg in Resources */,
@@ -486,7 +486,7 @@
 				6A32496625093FD700802F43 /* 8. Krsna-Balarama.jpg in Resources */,
 				B7394891229F292F00C47603 /* rainbowlake.jpg in Resources */,
 				B739486F229F194200C47603 /* Preview Assets.xcassets in Resources */,
-				6A32499225093FD800802F43 /* 77. Rangaji Gardens.jpg in Resources */,
+				6A32499225093FD800802F43 /* 76. Rangaji Gardens.jpg in Resources */,
 				6A32497625093FD800802F43 /* 45. The entrance to the Sadbhuja Mahaprabhu Temple.jpg in Resources */,
 				6A32497B25093FD800802F43 /* 71. Tekari Rani Temple.jpg in Resources */,
 				6A32499B25093FD800802F43 /* 17. Visrama-kunda.jpg in Resources */,
@@ -499,7 +499,7 @@
 				6A3249A025093FD800802F43 /* 46. The entrance to the Vamsi Gopala Temple.jpg in Resources */,
 				6A3249A125093FD800802F43 /* 61. Radha Gopala Temple.jpg in Resources */,
 				6A32496325093FD700802F43 /* 47. Yugala Kisora Temple.jpg in Resources */,
-				6A32499325093FD800802F43 /* 74. Deity of Lord Rama at the Tulasi Rama Temple.jpg in Resources */,
+				6A32499325093FD800802F43 /* 73. Deity of Lord Rama at the Tulasi Rama Temple.jpg in Resources */,
 				6A32496D25093FD800802F43 /* 42. The entrance to the Mirabai Temple.jpg in Resources */,
 				6A32499F25093FD800802F43 /* 33. Kisori-kunja and Seva-kunja.jpg in Resources */,
 				6A32496B25093FD700802F43 /* 18. Jaipur Temple.jpg in Resources */,
@@ -508,7 +508,7 @@
 				6A32497E25093FD800802F43 /* 59. Brahma-kunda.jpg in Resources */,
 				6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */,
 				6A32498825093FD800802F43 /* 24. The entrance at Advaita Vata.jpg in Resources */,
-				6A32498925093FD800802F43 /* 81. Caitanya Visrama Sthali.jpg in Resources */,
+				6A32498925093FD800802F43 /* 80. Caitanya Visrama Sthali.jpg in Resources */,
 				6A32498625093FD800802F43 /* 10 and 12. The altar at the Varaha Temple.jpg in Resources */,
 				6A32497525093FD800802F43 /* 15. Prabodhananda Sarasvati's samadhi.jpg in Resources */,
 				6A3249A325093FD800802F43 /* 26. Bankebihari Temple.jpg in Resources */,
@@ -529,7 +529,7 @@
 				B739489C229F292F00C47603 /* chincoteague.jpg in Resources */,
 				B739489B229F292F00C47603 /* landmarkData.json in Resources */,
 				6A32498425093FD800802F43 /* 19. Taras Temple.jpg in Resources */,
-				6A32498225093FD800802F43 /* 80. Raja-ghata.jpg in Resources */,
+				6A32498225093FD800802F43 /* 79. Raja-ghata.jpg in Resources */,
 				B7394893229F292F00C47603 /* icybay.jpg in Resources */,
 				B7394897229F292F00C47603 /* hiddenlake.jpg in Resources */,
 				B7394898229F292F00C47603 /* stmarylake.jpg in Resources */,
