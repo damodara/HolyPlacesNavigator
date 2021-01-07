@@ -80,6 +80,11 @@
 		6A3249A325093FD800802F43 /* 26. Bankebihari Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496025093FD700802F43 /* 26. Bankebihari Temple.jpg */; };
 		6A3249A425093FD800802F43 /* 65. Srinivasa Acarya's Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */; };
 		6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */; };
+		6A6B671F25A773B7002F08FD /* 37. Andhera-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */; };
+		6A6B672225A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */; };
+		6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */; };
+		6A6B672825A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */; };
+		6A6B672B25A77980002F08FD /* 67. Dhira Samira-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672A25A77980002F08FD /* 67. Dhira Samira-ghata.jpg */; };
 		B7394866229F194000C47603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394865229F194000C47603 /* AppDelegate.swift */; };
 		B7394868229F194000C47603 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394867229F194000C47603 /* SceneDelegate.swift */; };
 		B739486A229F194000C47603 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394869229F194000C47603 /* LandmarkDetail.swift */; };
@@ -182,6 +187,11 @@
 		6A32496025093FD700802F43 /* 26. Bankebihari Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "26. Bankebihari Temple.jpg"; sourceTree = "<group>"; };
 		6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "65. Srinivasa Acarya's Samadhi.jpg"; sourceTree = "<group>"; };
 		6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "51. The entrance to Nidhuvana.jpg"; sourceTree = "<group>"; };
+		6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "37. Andhera-ghata.jpg"; sourceTree = "<group>"; };
+		6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "39. Syamananda Tilaka Sthana and Samadhe.jpg"; sourceTree = "<group>"; };
+		6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "40. Srngara Vata or Nityananda Vata.jpg"; sourceTree = "<group>"; };
+		6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "83. Gadadhara Dant Samadhi.jpg"; sourceTree = "<group>"; };
+		6A6B672A25A77980002F08FD /* 67. Dhira Samira-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "67. Dhira Samira-ghata.jpg"; sourceTree = "<group>"; };
 		B7394862229F194000C47603 /* HP Navigator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HP Navigator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7394865229F194000C47603 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7394867229F194000C47603 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -340,7 +350,10 @@
 				6A32493125093FC000802F43 /* 35a. Sitanatha (Advaita Acarya, the husband of Sita) with Sita in the Sitanatha Temple.jpg */,
 				6A32493A25093FC600802F43 /* 35. Murari Gupta Gaura-Nitai Deities.jpg */,
 				6A32492425093FBC00802F43 /* 36. Bankhandi Mahadeva.jpg */,
+				6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */,
 				6A32495A25093FD500802F43 /* 38. The entrance to the Salagrama Temple.jpg */,
+				6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */,
+				6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */,
 				6A32495425093FD300802F43 /* 41. The entrance  Jaru Mandala.jpg */,
 				6A32492A25093FBD00802F43 /* 42. The entrance to the Mirabai Temple.jpg */,
 				6A32493625093FC100802F43 /* 43. The entrance to the Shahji Temple.jpg */,
@@ -367,6 +380,7 @@
 				6A32492925093FBD00802F43 /* 64. Radhakanta Temple of Gopala Guru Gosvami.jpg */,
 				6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */,
 				6A32494B25093FD000802F43 /* 66. Radha-Syamaraya Temple.jpg */,
+				6A6B672A25A77980002F08FD /* 67. Dhira Samira-ghata.jpg */,
 				6A32494925093FCF00802F43 /* 68. Yugala-Kisora Temple.jpg */,
 				6A32493525093FC100802F43 /* 69. Jnana  Gudri.jpg */,
 				6A32494C25093FD100802F43 /* 70. Radha-Braja-mohana Temple.jpg */,
@@ -381,6 +395,7 @@
 				6A32494625093FCF00802F43 /* 80. Caitanya Visrama Sthali.jpg */,
 				6A32495925093FD500802F43 /* 81. Batharan Bihari Temple.jpg */,
 				6A32493E25093FCC00802F43 /* 82. Akrura-ghata.jpg */,
+				6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */,
 				B739488E229F292E00C47603 /* landmarkData.json */,
 				B7394890229F292F00C47603 /* chilkoottrail.jpg */,
 				B739488F229F292F00C47603 /* chincoteague.jpg */,
@@ -401,9 +416,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B7394861229F194000C47603 /* Landmarks */ = {
+		B7394861229F194000C47603 /* HP Navigator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B7394876229F194200C47603 /* Build configuration list for PBXNativeTarget "Landmarks" */;
+			buildConfigurationList = B7394876229F194200C47603 /* Build configuration list for PBXNativeTarget "HP Navigator" */;
 			buildPhases = (
 				B739485E229F194000C47603 /* Sources */,
 				B739485F229F194000C47603 /* Frameworks */,
@@ -413,7 +428,7 @@
 			);
 			dependencies = (
 			);
-			name = Landmarks;
+			name = "HP Navigator";
 			productName = Landmarks;
 			productReference = B7394862229F194000C47603 /* HP Navigator.app */;
 			productType = "com.apple.product-type.application";
@@ -446,7 +461,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B7394861229F194000C47603 /* Landmarks */,
+				B7394861229F194000C47603 /* HP Navigator */,
 			);
 		};
 /* End PBXProject section */
@@ -467,6 +482,7 @@
 				6A32499825093FD800802F43 /* 21. Gopala-ghata. Radha Madan-gopala at Advaita Vata.jpg in Resources */,
 				6A32499025093FD800802F43 /* 74. The entrance to the Jagannatha-ghata Temple.jpg in Resources */,
 				6A32496F25093FD800802F43 /* 29a. The Srimad-Bhagavatam of Raghunatha Bhatta  Gosvami, said to have been given to him by Lord Caitanya.jpg in Resources */,
+				6A6B672B25A77980002F08FD /* 67. Dhira Samira-ghata.jpg in Resources */,
 				6A32498E25093FD800802F43 /* 66. Radha-Syamaraya Temple.jpg in Resources */,
 				B7394894229F292F00C47603 /* lakemcdonald.jpg in Resources */,
 				6A32498125093FD800802F43 /* 82. Akrura-ghata.jpg in Resources */,
@@ -506,10 +522,13 @@
 				6A32491E25093E0800802F43 /* 3. Radha Gopenatha in Vrindavana.jpg in Resources */,
 				6A32497D25093FD800802F43 /* 35. Murari Gupta Gaura-Nitai Deities.jpg in Resources */,
 				6A32497E25093FD800802F43 /* 59. Brahma-kunda.jpg in Resources */,
+				6A6B672225A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg in Resources */,
 				6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */,
 				6A32498825093FD800802F43 /* 24. The entrance at Advaita Vata.jpg in Resources */,
 				6A32498925093FD800802F43 /* 80. Caitanya Visrama Sthali.jpg in Resources */,
+				6A6B671F25A773B7002F08FD /* 37. Andhera-ghata.jpg in Resources */,
 				6A32498625093FD800802F43 /* 10 and 12. The altar at the Varaha Temple.jpg in Resources */,
+				6A6B672825A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg in Resources */,
 				6A32497525093FD800802F43 /* 15. Prabodhananda Sarasvati's samadhi.jpg in Resources */,
 				6A3249A325093FD800802F43 /* 26. Bankebihari Temple.jpg in Resources */,
 				B7394895229F292F00C47603 /* turtlerock.jpg in Resources */,
@@ -520,6 +539,7 @@
 				6A32491925093E0800802F43 /* 6. Radha-Gokulananda.jpg in Resources */,
 				B739486C229F194200C47603 /* Assets.xcassets in Resources */,
 				B7394899229F292F00C47603 /* twinlake.jpg in Resources */,
+				6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */,
 				B7394896229F292F00C47603 /* umbagog.jpg in Resources */,
 				6A32499E25093FD800802F43 /* 25. Asta-sakhi Temple.jpg in Resources */,
 				6A32499725093FD800802F43 /* 41. The entrance  Jaru Mandala.jpg in Resources */,
@@ -713,7 +733,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.damodara;
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.damodara.HPNavigator;
 				PRODUCT_NAME = "HP Navigator";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -735,7 +756,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.damodara;
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.damodara.HPNavigator;
 				PRODUCT_NAME = "HP Navigator";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -755,7 +777,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B7394876229F194200C47603 /* Build configuration list for PBXNativeTarget "Landmarks" */ = {
+		B7394876229F194200C47603 /* Build configuration list for PBXNativeTarget "HP Navigator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B7394877229F194200C47603 /* Debug */,

@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B7394861229F194000C47603"
                BuildableName = "HP Navigator.app"
-               BlueprintName = "Landmarks"
+               BlueprintName = "HP Navigator"
                ReferencedContainer = "container:BuildingListsAndNavigation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,7 +46,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B7394861229F194000C47603"
             BuildableName = "HP Navigator.app"
-            BlueprintName = "Landmarks"
+            BlueprintName = "HP Navigator"
             ReferencedContainer = "container:BuildingListsAndNavigation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -63,7 +63,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B7394861229F194000C47603"
             BuildableName = "HP Navigator.app"
-            BlueprintName = "Landmarks"
+            BlueprintName = "HP Navigator"
             ReferencedContainer = "container:BuildingListsAndNavigation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
