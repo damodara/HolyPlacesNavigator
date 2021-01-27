@@ -29,14 +29,12 @@ struct LandmarkDetail: View {
                 mapItem.openInMaps(launchOptions: options)
             }) {
                 Image(systemName:"arrow.up.right.diamond")
-                    .renderingMode(.original)
+                    .renderingMode(.template)
                     .imageScale(.large)
                     .scaledToFill() // add if you need
                     .frame(width: 50.0, height: 50.0) // as per your requirement
-                    .background(/*@START_MENU_TOKEN@*/Color.white/*@END_MENU_TOKEN@*/)
+                    .background(Color(UIColor.systemBackground))
                     .cornerRadius(/*@START_MENU_TOKEN@*/14.0/*@END_MENU_TOKEN@*/)
-                    
-                    
             }
             .frame(width:UIScreen.main.bounds.width/2, height: UIScreen.main.bounds.height/2, alignment: .center)
             .offset(x: 0, y: -350)
@@ -79,5 +77,7 @@ struct LandmarkDetail: View {
 struct LandmarkDetail_Previews: PreviewProvider {
     static var previews: some View {
         LandmarkDetail(landmark: landmarkData[0])
+            
+            
     }
 }
