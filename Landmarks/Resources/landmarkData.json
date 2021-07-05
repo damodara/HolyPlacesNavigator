@@ -1,5 +1,5 @@
 [
-    {
+   {
         "name": "Radha-Madana-mohana",
         "category": "Featured",
         "city": "Vrindavan",
@@ -139,7 +139,7 @@
         "imageName": "10 and 12. The altar at the Varaha Temple",
         "description": "One might wonder why this place so far from the Yamuna is referred to as a ghaoa or bathing place, but 50 years ago the Yamuna flowed past here until it was dammed further upstream. In the course of His pastimes with the gopies here Lord Kanea once manifested the form of Varaha, the boar incarnation who killed the demon Hiranyaksa, the brother of Hiranyakasipu. There is a very nice Deity of Lord Varaha in the temple."
     },
-    {
+   /* {
         "name": "? The Asrama Of Gautama Rsi",
         "category": "Featured",
         "city": "Vrindavan",
@@ -152,7 +152,7 @@
         },
         "imageName": "turtlerock",
         "description": "The Asrama Of Gautama Rsi. The place where the great saint Gautama Rsi performed austerities thousands of years ago.  The asrama is open to the public. There is the Murti of Gautama Rsi inside."
-    },
+    },*/
     {
         "name": "Varaha Ghata",
         "category": "Featured",
@@ -293,7 +293,7 @@
         "imageName": "21. Gopala-ghata. Radha Madan-gopala at Advaita Vata",
         "description": "When Lord Krsna had subdued the serpent Kaliya, His father, Nanda Maharaja, was so overwhelmed with loving ecstasy that He gave many cows away in charity here."
     },
-    {
+  /*  {
         "name": "? Praskandana-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -306,8 +306,8 @@
         },
         "imageName": "turtlerock",
         "description": "error coordinates \r\nIt is said that when Krsna was being warmed and dried by the twelve forms of the sun, as described in 1a regarding Dvadasaditya-tila, He became hot and started perspiring. His perspiration ran down the side of the hill, forming a small lake immediately beneath it. Unfortunately, that lake is no longer visible, but when one looks over the northern side of Dvadasaditya-tila, one can see where it must have been."
-    },
-    {
+    },*/
+   /* {
         "name": "? Surya-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -320,7 +320,7 @@
         },
         "imageName": "turtlerock",
         "description": "It is said that Surya the sun god performed austerities here to be able to see Lord Krsna when He appeared in Sri Vrindavana-Dama. When Krsna emerged from the Yamuna\u2019s waters after subduing Kaliya, Srimati Radharani, seeing how wet and cold He was, came to this spot and prayed to Surya to increase the strength of his rays to warm the Lord after His great struggle with the snake."
-    },
+    },*/
     {
         "name": "Advaita Vata",
         "category": "Featured",
@@ -405,7 +405,7 @@
         "imageName": "29. Bhattaji Temple",
         "description": "This is one of the favorite bathing places of Lord Krsna and Srimati Radharani, and is therefore named Yugala-ghata, or the ghata of the Divine Couple."
     },
-    {
+   /* {
         "name": "? Vihara-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -418,8 +418,8 @@
         },
         "imageName": "turtlerock",
         "description": "Vihara means transcendental pastimes. Srila Visvanatha Cakravarti Thakura\u2019s Vraja-riti-Cintamani describes, \u201cThe dark nectar current of the Yamuna picks up Lord Krsna and plunges Him and His gopi friends in the dark nectar current of transcendental amorous pastimes. Many charming aquatic creatures, plunged in the nectar of love for Krsna, again and again push their heads above the Yamuna\u2019s waters, hoping for a glimpse of Lord Syama. On the Yamuna\u2019s beautiful shores are jewel staircases which are like the teeth of the goddess of beauty, and which remind one of Sri Krsna. When they drink the sound of Krsna\u2019s flute, these two jewel staircases melt with love, and the river flowing between them becomes solid and stunned with ecstasy. In the moonlight, the Yamuna\u2019s beaches appear to be made of camphor sand."
-    },
-    {
+    },*/
+    /*{
         "name": "? Bhema-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -432,7 +432,7 @@
         },
         "imageName": "turtlerock",
         "description": "When Bhima of the Pandavas would visit Vraja, this was his favorite bathing place."
-    },
+    },*/
     {
         "name": "Imli Tala",
         "category": "Featured",
@@ -517,7 +517,7 @@
         "imageName": "37. Andhera-ghata",
         "description": "This ghata is named after a nice pastime of Srimati Radharani and Lord Krsna that took place nearby. Once, Lord Krsna came here to let His cows drink the Yamuna\u2019s waters. Radharani and the gopis arrived and began a game of hide and seek with Him. First, one of the gopis covered her eyes while Krsna, Srimati Radharani, and the others hid in the forest, and then the gopi had to locate them among the trees, which she managed to do quite quickly. Each of the gopis took a turn to be the one who had to find everyone else, until finally Krsna had a chance. Srimati Radharani covered His eyes and gave the gopis a minute to hide, and then Krsna began to search for them. However, even though He tried His best, searching high and low, still He was not able to find the gopis. At last, they emerged from their hiding places, laughing very sweetly. Because Srimati Radharani had covered Krsna\u2019s eyes here, this place is known as Andhera-ghata, or the ghata of the blind person. Due to the ravages of time, this ghata is no longer present in a manifest form."
     },
-    {
+   /* {
         "name": "? Salagrama Temple",
         "category": "Featured",
         "city": "Vrindavan",
@@ -530,7 +530,7 @@
         },
         "imageName": "38. The entrance to the Salagrama Temple",
         "description": "This temple is almost opposite the entrance to the Syamasundara temple, slightly further up the road towards Loi Bazaar. Inside there are two very large salagrama silas from the Gandaki River in Nepal, plus Deities of Sita, Rama, Laksmana, and Hanuman."
-    },
+    },*/
     {
         "name": "Syamananda Tilaka Sthana and Samadhe",
         "category": "Featured",
@@ -671,7 +671,7 @@
         "imageName": "48. Cira-ghata",
         "description": "This spot is said by some to be where Lord Krsna stole the gopis\u2019 clothes when they were finishing their monthlong Katyayani vow, as described in Srimad Bhagavatam Tenth Canto, Chapter 22. It is, however, more generally accepted that this pastime took place further up the Yamuna, where there is a famous Deity of Katyayani devi at a place with the same name.\r\n\r\nLord Krsna rested here after killing the Kesi demon at Kesi-ghata, which is very close by."
     },
-    {
+   /* {
         "name": "? Brahmara-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -684,7 +684,7 @@
         },
         "imageName": "turtlerock",
         "description": "This ghata is more or less midway between Cira-ghata and the larger Kesi-ghata. Previously this location is said to have been a beautiful garden area where Srimati Radharani and Lord Krsna would often meet to enjoy pastimes amongst the wonderfully fragrant flowering plants. Krsna\u2019s body is so fragrant that often it is difficult for Him to move around secretly, as when people smell His amazing scent they know He can not be too far away. Similarly, Srimati Radharani\u2019s transcendental form is also captivatingly fragrant, so when They would meet here and the natural perfumes of Their bodies would mix with those of the flowers, all the bees in the area would immediately gather and become mad with ecstasy in Their company. Therefore, this place is known as Brahmara-ghata or the ghata of the bees."
-    },
+    },*/
     {
         "name": "Kesi-ghata",
         "category": "Featured",
@@ -699,7 +699,7 @@
         "imageName": "50. Kesi-ghata from Yamuna",
         "description": "The Yamuna River runs right past Kesi-ghata. This is where Lord Krsna killed the Kesi demon, who came in the form of a horse.\r\n\r\nSrila Bhaktivinoda Thakura says that Kesi represents a type of superiority complex that may develop in the heart of a devotee as they make a little progress in devotional service. It may lead to disrespecting the Deities, guru, and then even bring one to the point of fall-down."
     },
-    {
+   /* {
         "name": "? Nidhuvana",
         "category": "Featured",
         "city": "Vrindavan",
@@ -712,7 +712,7 @@
         },
         "imageName": "51. The entrance to Nidhuvana",
         "description": "error coordinate \r\n\r\nWhen Lord Krsna and the gopis were enjoying the rasa dance pastime, at one point He suddenly left them, taking Srimati Radharani with Him, as is described in the Tenth Canto of Srimad-Bhagavatam. This is the place where that pastime occurred. Nidhuvana can be translated as \u201ca garden or forest where amorous pastimes take place\u201d, and it is here that Rada and Krsna sometimes take rest after becoming fatigued in the course of dancing. The devotees here have made a nice building named Ranga Mahal in which there is a comfortable bed and all types of perfumes and other paraphernalia for the Divine Couple to use in Their transcendental pastimes."
-    },
+    },*/
     {
         "name": "Sriji Temple",
         "category": "Featured",
@@ -755,7 +755,7 @@
         "imageName": "54. Amiya Nimai Temple",
         "description": "This very large Deity of Lord Caitanya was first worshiped in Bengal many years ago, and around the end of the 19 th century, He came into the care of a devotee in the line of Gopala Bhatta Gosvami, Sarvabhauma Madhusudana Gosvami. Sarvabhauma was a member of one of the Gosvami families of the Radha-Ramana temple in Vrndavana. One of his disciples in Calcutta, Radha-Govinda Gosvami, installed the Deity in Calcutta. Radha-Govinda Gosvami had no children and, in his later age, wondered who would continue the service of Amiya Nimai, as the Deity had come to be known. Amiya Nimai came to the Gosvami in a dream and told him to contact Krsna Caitanya Gosvami of the Radha-Ramana temple and get him to take Him to Vrndavana.\r\n\r\nFollowing the dream, Radha-Govinda Gosvami and Krsna Caitanya Gosvami discussed the matter for some time in a series of letters without reaching a conclusion, and shortly afterward, Radha-Govinda Gosvami passed away. Krsna Caitanya Gosvami arranged in 1936 that Amiya Nimai be transported from Calcutta to Vrndavana, where He was installed in a room by the rasa-mandala outside the main entrance to the Radha-Ramana temple. The worship went on there for some time, and then in 1954 Krsna Caitanya Gosvami obtained land in the Gopinatha Bazaar area of Vrndavana town, and Amiya Nimai\u2019s new temple was opened there in 1956.\r\n\r\nHe is a magnificent Deity and is worshiped very nicely, still under the care of the devotees of Radha-Ramana temple."
     },
-    {
+   /* {
         "name": "? Bilvamangala Thakura’s Samadhi",
         "category": "Featured",
         "city": "Vrindavan",
@@ -768,7 +768,7 @@
         },
         "imageName": "55. Bilvamangala Thakura’s Samadhi",
         "description": "error coordinate \r\n\r\nBilvamangala Thakura appeared in this world in a brahmana family in South India in the 700\u2019s. At some point, he became a devotee of Lord Krsna, although he seems to have had many struggles maintaining spiritual principles.\r\n\r\nOne day, he even made himself completely blind to keep rendering his devotional service. He then continued on to Sri Vrndavana-dhama. \r\n\r\nThe Lord especially liked to hear Bilvamangala Thakura\u2019s Krsna-karnamrta. Once, Bilvama\u00ecgala was sitting under a tree chanting when Krsna in the form of a small boy approached him and told him, \u201cI\u2019m a cowherd boy from the nearby village, and I\u2019ve brought some milk for you in a pot. Please drink it, and I\u2019ll come back later and collect the pot from you.\u201d Bilvamangala drank the milk, which had an amazing taste, and that night the boy appeared to him in a dream and revealed that He was Krsna. When He came back the next morning for the pot, Bilvamangala tried to entice Him to come close to him, so he could grab His worshipable Lord, but Krsna jumped aside, and he missed. Bilvamangala told the Lord, \u201cI\u2019m a blind man, so You may be able to escape from my hands, but you\u2019ll never escape from my heart!\u201d"
-    },
+    },*/
     {
         "name": "Govinda-kunda",
         "category": "Featured",
@@ -1077,7 +1077,7 @@
         "imageName": "77. Pani-ghata",
         "description": "The Gopala-tapani Upanishad describes a pastime that happened here: Once, after they had passed the night in conjugal pastimes with Him, the passionate girls of Vraja asked Krishna: \"To what brahmana should charity be given?\u00bb Krishna replied: \"To Durvasa\". The sage Durvasa was living on the other side of the Yamuna, so the gopis asked: \"How will we cross the Yamuna\u2019s waters and approach him, from whom great blessings will come?\u00bb Krishna said: \"Just say the words: \"Krsna is the topmost brahmachari,\" and the Yamuna will give you a path. By remembering Me, a shallow person becomes deep. By remembering Me, an impure person becomes pure. By remembering Me, an impious person becomes pious. By remembering Me, one full material desires becomes desireless. By remembering Me, a fool becomes learned.\" \r\n\r\nAfter hearing this, the gopis, anxious to get the mercy of Durvasa, repeated Krsna\u2019s words, and to their surprise the waters of the Yamuna parted and allowed them to cross. They went to the sacred ashrama and bowed down before Durvasa Muni, the best of sages, and gave him delicious foods made with milk and ghee. Pleased with them, he took bath, ate the prasadam they had offered, blessed them, and then gave them permission to return home. But the gopis became disturbed: \"How will we cross the Yamuna?\u00bb they asked. Durvasa replied: \"Just meditate on me as a sage who eats only durva grass, and the Yamuna will give you a path.\" \r\nSrimati Radharani reflected for a moment and then asked him, \"We know Krsna very well. He always pursues us for amorous pastimes. How can anyone say He\u2019s a brahmacari? And we just saw you eat a big feast. How could anyone say you eat only durva grass?\u201d When she placed these questions before Durvasa Muni, the other girls became silent. \r\nDurvasa answered their second question, regarding himself first, \"Sound is contained within the element ether, although sound and ether are different. The ether does not know this. And I am spirit. How can I be a materialistic enjoyer? Touch is contained within the element air, although touch and air are different. The air doesn't know this. I am a spirit. How can I be a materialistic enjoyer? Form is contained within the element fire, although - form and fire are different. Fire doesn't know this. And I am a spirit."
     },
-    {
+    /*{
         "name": "? Adi Badri-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -1090,8 +1090,8 @@
         },
         "imageName": "turtlerock",
         "description": "Lord Krsna once told the gopis that He is the source of all avataras and incarnations, which they objected to very strongly. In order to give them proof He manifested His form as Adi Badrinatha to them here. It is also said that Srila Vyasadeva wrote the Tenth Canto of Srimad-Bhagavatam here."
-    },
-    {
+    },*/
+  /*  {
         "name": "? Raja-ghata",
         "category": "Featured",
         "city": "Vrindavan",
@@ -1104,7 +1104,7 @@
         },
         "imageName": "79. Raja-ghata",
         "description": "error coordinate \r\n Here, Krishna disguised himself as a boatman in order to meet with Srimati Radharani and the gopis who were trying to cross the Yamuna to sell their dairy products in a nearby market. There were no other boats available, so Krishna bargained with them, requesting a very high price, but He told them He was asking so much because He offered a special service to all His clients - He always washed the feet of everyone He took on Hise boat. The gopis were impressed with this and agreed, then Krisna bathed their feet with Yamuna water and put it on His head. They started rowing across the rive, and Krishna told the gopis that actually He might prefer to take His payment in dairy products rather than money, particularly if their butter was a very high quality. The gopis insisted that their butter was the best available, and Krsna, disguised as a boatman, tried it, and immediately became stunned in ecstasy. \r\n When the gopis make butter, they are simply meditating and praying that Krsna will eat what they make, and in this way all their transcendental affection goes into it, and everything becomes saturated with spiritual love. As Krsna tasted this amazing love in butter, He became overwhelmed and collapsed in the boat."
-    },
+    },*/
     {
         "name": "Caitanya Visrama Sthali",
         "category": "Featured",
@@ -1147,7 +1147,7 @@
         "imageName": "82. Akrura-ghata",
         "description": "\u201cSrimad-Bhagavatam\u201d describes that when Akrura took Lord Krsna and Balarama out of Vrndavana to Mathura, they stopped here on the way, to take bath. First Krsna and Balarama bathed, and then, when They returned to sit in the chariot, Akrura took permission from Them to take bath. He was standing half-submerged in the Yamuna, chanting gayatri, when he suddenly saw Krishna and Balarama in the water again. Surprised, he came out of the water, but then saw that They were still seated in the chariot, and he thought he must have been mistaken when he thought he saw Them in the water. He went back into the river, but saw Them there again, and this time not alone, but surrounded by all sort of great personalities, including many of the demigods, and a great number of Siddhas, Caranas, and Gandharvas, all of whom were bowing down before Krsna and Balarama. \r\n\r\nLord Sesanaga was also there, dressed in blue clothes, His white necks appearing just like snow-capped mountains. Akrura saw Krsna lying on Ananta Sesa in a four-armed form, looking astonishingly beautiful. Seeing this Akrura was overwhelmed, and he offered beautiful prayer to the Lord, but then suddenly while he was still glorifying Him, the vision disappeared. \r\nWhen Lord Caitanya visited Vrndavana, he stayed here some of the time, spending the nights here and during the day going out to visit different holy places. He once became absorbed here in remembrance of Akrura meditating in the water and seeing Krsna there, and jumped in, staying under water for some time, until his assistant, Balabhadra Bhattacharya, with great difficulty manage to pull Him out. As a result of this incident, Balabhadra Bhattacharya felt forced to take Lord Caitanya out of Vrndavana, and the Lord, even though He did not really want to go, agreed to leave. \r\nIn those days, the Yamuna ran right past where the current temple is located, but now the river has moved some distance away. In the the temple are very nice Deities of Krishna and Balarama with Akrura between Them."
     },
-    {
+   /* {
         "name": "? Gadadhara Dant Samadhi",
         "category": "Featured",
         "city": "Vrindavan",
@@ -1160,5 +1160,6 @@
         },
         "imageName": "83. Gadadhara Dant Samadhi",
         "description": "error coordinate \r\n\r\nDant means \"tooth\", and one of the teeth of Gadadhara Pandita of Pancha-tattva, one of the close associates of Lord Caitanya Mahaprabhu, is buried here. After he left this world in Jagannatha Puri, his disciple, Ananda das, brought one of his teeth and buried it in this place. The temple is located to the left of The vamshi Gopala temple, about 50 meters on the road to Yamuna. When you enter a room, the Samadhi is located to the right at the entrance door. In Krsna-Lila, Gadadhara is Srimati Radharani."
-    }
+    }*/
 ]
+
