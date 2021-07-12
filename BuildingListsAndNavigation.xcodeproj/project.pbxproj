@@ -80,6 +80,7 @@
 		6A3249A325093FD800802F43 /* 26. Bankebihari Temple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496025093FD700802F43 /* 26. Bankebihari Temple.jpg */; };
 		6A3249A425093FD800802F43 /* 65. Srinivasa Acarya's Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */; };
 		6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */; };
+		6A4CFC012694922800E8B48D /* logo 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A4CFC002694922800E8B48D /* logo 1.jpg */; };
 		6A6B671F25A773B7002F08FD /* 37. Andhera-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */; };
 		6A6B672225A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */; };
 		6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */; };
@@ -187,6 +188,7 @@
 		6A32496025093FD700802F43 /* 26. Bankebihari Temple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "26. Bankebihari Temple.jpg"; sourceTree = "<group>"; };
 		6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "65. Srinivasa Acarya's Samadhi.jpg"; sourceTree = "<group>"; };
 		6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "51. The entrance to Nidhuvana.jpg"; sourceTree = "<group>"; };
+		6A4CFC002694922800E8B48D /* logo 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo 1.jpg"; sourceTree = "<group>"; };
 		6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "37. Andhera-ghata.jpg"; sourceTree = "<group>"; };
 		6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "39. Syamananda Tilaka Sthana and Samadhe.jpg"; sourceTree = "<group>"; };
 		6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "40. Srngara Vata or Nityananda Vata.jpg"; sourceTree = "<group>"; };
@@ -409,6 +411,7 @@
 				B739488C229F292E00C47603 /* twinlake.jpg */,
 				B7394889229F292E00C47603 /* umbagog.jpg */,
 				B7394885229F292D00C47603 /* yukon_charleyrivers.jpg */,
+				6A4CFC002694922800E8B48D /* logo 1.jpg */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -558,6 +561,7 @@
 				6A32497125093FD800802F43 /* 52. Sriji Temple.jpg in Resources */,
 				6A32499A25093FD800802F43 /* 63. Vamsivata.jpg in Resources */,
 				6A32497F25093FD800802F43 /* 20. Kaliya Mardana Temple.jpg in Resources */,
+				6A4CFC012694922800E8B48D /* logo 1.jpg in Resources */,
 				6A32498325093FD800802F43 /* 14. The Deities at Kallya-ghata.jpg in Resources */,
 				6A32499425093FD800802F43 /* 29. Bhattaji Temple.jpg in Resources */,
 				6A32496E25093FD800802F43 /* 54. Amiya Nimai Temple.jpg in Resources */,
@@ -733,7 +737,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.damodara.HPNavigator;
 				PRODUCT_NAME = "HP Navigator";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -756,7 +760,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.damodara.HPNavigator;
 				PRODUCT_NAME = "HP Navigator";
 				PROVISIONING_PROFILE_SPECIFIER = "";
