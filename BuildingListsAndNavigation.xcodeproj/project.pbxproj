@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A03F371269F68AF002FDC7A /* logo 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A03F370269F68AF002FDC7A /* logo 1.png */; };
 		6A32491925093E0800802F43 /* 6. Radha-Gokulananda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32491225093E0700802F43 /* 6. Radha-Gokulananda.jpg */; };
 		6A32491A25093E0800802F43 /* 5. Radha-Ramana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32491325093E0700802F43 /* 5. Radha-Ramana.jpg */; };
 		6A32491B25093E0800802F43 /* 7. Radha Syamasundara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32491425093E0700802F43 /* 7. Radha Syamasundara.jpg */; };
@@ -115,6 +116,7 @@
 
 /* Begin PBXFileReference section */
 		32C0591524A7452A1B7C1DE3 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		6A03F370269F68AF002FDC7A /* logo 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo 1.png"; sourceTree = "<group>"; };
 		6A32491225093E0700802F43 /* 6. Radha-Gokulananda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "6. Radha-Gokulananda.jpg"; sourceTree = "<group>"; };
 		6A32491325093E0700802F43 /* 5. Radha-Ramana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5. Radha-Ramana.jpg"; sourceTree = "<group>"; };
 		6A32491425093E0700802F43 /* 7. Radha Syamasundara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "7. Radha Syamasundara.jpg"; sourceTree = "<group>"; };
@@ -411,6 +413,7 @@
 				B739488C229F292E00C47603 /* twinlake.jpg */,
 				B7394889229F292E00C47603 /* umbagog.jpg */,
 				B7394885229F292D00C47603 /* yukon_charleyrivers.jpg */,
+				6A03F370269F68AF002FDC7A /* logo 1.png */,
 				6A4CFC002694922800E8B48D /* logo 1.jpg */,
 			);
 			path = Resources;
@@ -569,6 +572,7 @@
 				6A32491F25093E0800802F43 /* 1. Radha-Madana-mohana temple.jpg in Resources */,
 				6A32496A25093FD700802F43 /* 50. Kesi-ghata from Yamuna.jpg in Resources */,
 				6A32496C25093FD800802F43 /* 64. Radhakanta Temple of Gopala Guru Gosvami.jpg in Resources */,
+				6A03F371269F68AF002FDC7A /* logo 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
