@@ -22,35 +22,36 @@ struct LandmarkDetail: View {
                 .padding(.bottom, -130)
                 
             Spacer()
-                
-            Button (
-                    action: {
-                        let latitude:CLLocationDegrees = self.landmark.locationCoordinate.latitude
-                        let longitude:CLLocationDegrees = self.landmark.locationCoordinate.longitude
-                    
-                    let regionDistance:CLLocationDistance = 1000;
-                    let coordinates = CLLocationCoordinate2DMake(latitude, longitude)
-                    let regionSpan = MKCoordinateRegion(center: coordinates, latitudinalMeters: regionDistance, longitudinalMeters: regionDistance)
-                    
-                    let options = [MKLaunchOptionsMapCenterKey: NSValue(mkCoordinate: regionSpan.center), MKLaunchOptionsMapSpanKey: NSValue(mkCoordinateSpan: regionSpan.span)]
-                    
-                    let placemark = MKPlacemark(coordinate: coordinates)
-                    let mapItem = MKMapItem(placemark: placemark)
-                        mapItem.name = self.landmark.name
-                    mapItem.openInMaps(launchOptions: options)
-                }) {
-                HStack{
-                    Text("Get directions")
-                        .font(.body)
-                    Image(systemName:"arrow.up.right.diamond")
-                        .font(.headline)
-                }
-                .padding()
-                .background(Color(UIColor.systemBackground))
-                .cornerRadius(40)
-                .shadow(radius: 10)
-            }
-            .padding(.top)
+            
+            ButtonDirection(landmark: landmark)
+//            Button (
+//                    action: {
+//                        let latitude:CLLocationDegrees = self.landmark.locationCoordinate.latitude
+//                        let longitude:CLLocationDegrees = self.landmark.locationCoordinate.longitude
+//                    
+//                    let regionDistance:CLLocationDistance = 1000;
+//                    let coordinates = CLLocationCoordinate2DMake(latitude, longitude)
+//                    let regionSpan = MKCoordinateRegion(center: coordinates, latitudinalMeters: regionDistance, longitudinalMeters: regionDistance)
+//                    
+//                    let options = [MKLaunchOptionsMapCenterKey: NSValue(mkCoordinate: regionSpan.center), MKLaunchOptionsMapSpanKey: NSValue(mkCoordinateSpan: regionSpan.span)]
+//                    
+//                    let placemark = MKPlacemark(coordinate: coordinates)
+//                    let mapItem = MKMapItem(placemark: placemark)
+//                        mapItem.name = self.landmark.name
+//                    mapItem.openInMaps(launchOptions: options)
+//                }) {
+//                HStack{
+//                    Text("Get directions")
+//                        .font(.body)
+//                    Image(systemName:"arrow.up.right.diamond")
+//                        .font(.headline)
+//                }
+//                .padding()
+//                .background(Color(UIColor.systemBackground))
+//                .cornerRadius(40)
+//                .shadow(radius: 10)
+//            }
+//            .padding(.top)
             
                 
             VStack(alignment: .leading) {

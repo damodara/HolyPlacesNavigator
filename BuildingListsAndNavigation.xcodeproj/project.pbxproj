@@ -87,6 +87,7 @@
 		6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */; };
 		6A6B672825A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */; };
 		6A6B672B25A77980002F08FD /* 67. Dhira Samira-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672A25A77980002F08FD /* 67. Dhira Samira-ghata.jpg */; };
+		6A8B5BFB273D31B40030A7EC /* ButtonDirection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8B5BFA273D31B40030A7EC /* ButtonDirection.swift */; };
 		B7394866229F194000C47603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394865229F194000C47603 /* AppDelegate.swift */; };
 		B7394868229F194000C47603 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394867229F194000C47603 /* SceneDelegate.swift */; };
 		B739486A229F194000C47603 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394869229F194000C47603 /* LandmarkDetail.swift */; };
@@ -196,6 +197,7 @@
 		6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "40. Srngara Vata or Nityananda Vata.jpg"; sourceTree = "<group>"; };
 		6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "83. Gadadhara Dant Samadhi.jpg"; sourceTree = "<group>"; };
 		6A6B672A25A77980002F08FD /* 67. Dhira Samira-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "67. Dhira Samira-ghata.jpg"; sourceTree = "<group>"; };
+		6A8B5BFA273D31B40030A7EC /* ButtonDirection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDirection.swift; sourceTree = "<group>"; };
 		B7394862229F194000C47603 /* HP Navigator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HP Navigator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7394865229F194000C47603 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7394867229F194000C47603 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -306,6 +308,7 @@
 			children = (
 				B7394879229F1B3F00C47603 /* CircleImage.swift */,
 				B739487B229F1B6800C47603 /* MapView.swift */,
+				6A8B5BFA273D31B40030A7EC /* ButtonDirection.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -592,6 +595,7 @@
 				B739486A229F194000C47603 /* LandmarkDetail.swift in Sources */,
 				B739489F229F2D9700C47603 /* LandmarkRow.swift in Sources */,
 				B7394881229F28B900C47603 /* Landmark.swift in Sources */,
+				6A8B5BFB273D31B40030A7EC /* ButtonDirection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
