@@ -20,7 +20,9 @@ struct LandmarkDetail: View {
             CircleImage(image: landmark.image)
                 .offset(x: 0, y: -130)
                 .padding(.bottom, -130)
-
+                
+            Spacer()
+                
             Button (
                     action: {
                         let latitude:CLLocationDegrees = self.landmark.locationCoordinate.latitude
@@ -37,21 +39,19 @@ struct LandmarkDetail: View {
                         mapItem.name = self.landmark.name
                     mapItem.openInMaps(launchOptions: options)
                 }) {
+                HStack{
                     Text("Get directions")
+                        .font(.body)
                     Image(systemName:"arrow.up.right.diamond")
-                        .renderingMode(.template)
-                        .imageScale(.large)
-                        .scaledToFill() // add if you need
-                        .frame(width: 50.0, height: 50.0) // as per your requirement
-                        .background(Color(UIColor.systemBackground))
-                        .cornerRadius(/*@START_MENU_TOKEN@*/14.0/*@END_MENU_TOKEN@*/)
+                        .font(.headline)
+                }
+                .padding()
+                .background(Color(UIColor.systemBackground))
+                .cornerRadius(40)
+                .shadow(radius: 10)
             }
-            .shadow(radius: 5)
+            .padding(.top)
             
-            
-                
-                
-                
                 
             VStack(alignment: .leading) {
                 Text(landmark.name)
@@ -83,6 +83,7 @@ struct LandmarkDetail: View {
 struct LandmarkDetail_Previews: PreviewProvider {
     static var previews: some View {
         LandmarkDetail(landmark: landmarkData[0])
+            .previewDevice("iPhone 12 Pro Max")
             
             
     }
