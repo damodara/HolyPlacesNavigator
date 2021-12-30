@@ -84,6 +84,7 @@
 		6A4CFC012694922800E8B48D /* logo 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A4CFC002694922800E8B48D /* logo 1.jpg */; };
 		6A50DCD2277D0474003B662C /* landmarkDataRu.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A50DCD1277D0474003B662C /* landmarkDataRu.json */; };
 		6A50DCD5277DC044003B662C /* landmarkDataEn.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A50DCD4277DC044003B662C /* landmarkDataEn.json */; };
+		6A50DCDA277E24FD003B662C /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A50DCDC277E24FD003B662C /* Localizable.strings */; };
 		6A6B671F25A773B7002F08FD /* 37. Andhera-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */; };
 		6A6B672225A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */; };
 		6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */; };
@@ -196,6 +197,8 @@
 		6A4CFC002694922800E8B48D /* logo 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo 1.jpg"; sourceTree = "<group>"; };
 		6A50DCD1277D0474003B662C /* landmarkDataRu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = landmarkDataRu.json; sourceTree = "<group>"; };
 		6A50DCD4277DC044003B662C /* landmarkDataEn.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = landmarkDataEn.json; sourceTree = "<group>"; };
+		6A50DCDB277E24FD003B662C /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6A50DCE6277E254E003B662C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "37. Andhera-ghata.jpg"; sourceTree = "<group>"; };
 		6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "39. Syamananda Tilaka Sthana and Samadhe.jpg"; sourceTree = "<group>"; };
 		6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "40. Srngara Vata or Nityananda Vata.jpg"; sourceTree = "<group>"; };
@@ -288,6 +291,7 @@
 				B7394865229F194000C47603 /* AppDelegate.swift */,
 				B7394867229F194000C47603 /* SceneDelegate.swift */,
 				B73948A0229F2E1F00C47603 /* LandmarkList.swift */,
+				6A50DCDC277E24FD003B662C /* Localizable.strings */,
 				B739489E229F2D9700C47603 /* LandmarkRow.swift */,
 				B7394869229F194000C47603 /* LandmarkDetail.swift */,
 				B739487D229F1C0100C47603 /* Supporting Views */,
@@ -492,6 +496,7 @@
 				6A32498025093FD800802F43 /* 34. Paurnamasi devi.jpg in Resources */,
 				6A32496825093FD700802F43 /* 77. Pani-ghata.jpg in Resources */,
 				6A32496725093FD700802F43 /* 36. Bankhandi Mahadeva.jpg in Resources */,
+				6A50DCDA277E24FD003B662C /* Localizable.strings in Resources */,
 				B739489A229F292F00C47603 /* silversalmoncreek.jpg in Resources */,
 				6A3249A225093FD800802F43 /* 13. Mohana Ter-ghata.jpg in Resources */,
 				6A32491D25093E0800802F43 /* 4. Radha-Damodara in Vrindavana.jpg in Resources */,
@@ -612,6 +617,15 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		6A50DCDC277E24FD003B662C /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6A50DCDB277E24FD003B662C /* ru */,
+				6A50DCE6277E254E003B662C /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		B7394870229F194200C47603 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

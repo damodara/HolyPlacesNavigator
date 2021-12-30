@@ -8,7 +8,7 @@ struct LandmarkList: View {
                     LandmarkRow(landmark: landmark)
                 }
             }
-            .navigationBarTitle(Text("HP Navigator"))
+            .navigationBarTitle(Text(NSLocalizedString("HPNavigator", comment: "название в шапке листа")))
         }
     }
 }

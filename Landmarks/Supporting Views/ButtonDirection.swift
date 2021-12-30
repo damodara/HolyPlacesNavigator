@@ -30,7 +30,7 @@ struct ButtonDirection: View {
                 mapItem.openInMaps(launchOptions: options)
             }) {
             HStack{
-                Text("Get directions")
+                Text(NSLocalizedString("Get directions", comment: "название кнопки прокладывания маршрута"))
                     .font(.body)
                 Image(systemName:"arrow.up.right.diamond")
                     .font(.headline)
