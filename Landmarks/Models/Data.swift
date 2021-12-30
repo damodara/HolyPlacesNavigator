@@ -3,13 +3,24 @@
 import UIKit
 import SwiftUI
 import CoreLocation
+import Foundation
 
-let landmarkData: [Landmark] = load("landmarkData.json")
+ let langStr = Locale.current.languageCode
+ var jsonFile: String?
 
+ let landmarkData: [Landmark] = load(jsonFile ?? "")
+// let landmarkData: [Landmark] = load("landmarkDataEn.json")
 func load<T: Decodable>(_ filename: String) -> T {
+    
+    if langStr == "ru" {
+       jsonFile = "landmarkDataRu.json"
+    } else {
+       jsonFile = "landmarkDataEn.json"
+    }
+
     let data: Data
     
-    guard let file = Bundle.main.url(forResource: filename, withExtension: nil)
+    guard let file = Bundle.main.url(forResource: jsonFile, withExtension: nil)
         else {
             fatalError("Couldn't find \(filename) in main bundle.")
     }

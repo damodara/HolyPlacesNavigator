@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Name",
+        "category": "Featured",
+        "city": "City",
+        "state": "State",
+        "id": 1001,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": 60.00000,
+            "latitude": 60.00000
+        },
+        "imageName": "chilkoottrail",
+        "description": "description"
+    },
+]
+

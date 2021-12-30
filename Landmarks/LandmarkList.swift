@@ -8,7 +8,7 @@ struct LandmarkList: View {
                     LandmarkRow(landmark: landmark)
                 }
             }
-            .navigationBarTitle(Text("Holy Places Navigator"))
+            .navigationBarTitle(Text("HP Navigator"))
         }
     }
 }

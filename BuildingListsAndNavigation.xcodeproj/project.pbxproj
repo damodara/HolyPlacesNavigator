@@ -82,6 +82,8 @@
 		6A3249A425093FD800802F43 /* 65. Srinivasa Acarya's Samadhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */; };
 		6A3249A525093FD800802F43 /* 51. The entrance to Nidhuvana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */; };
 		6A4CFC012694922800E8B48D /* logo 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A4CFC002694922800E8B48D /* logo 1.jpg */; };
+		6A50DCD2277D0474003B662C /* landmarkDataRu.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A50DCD1277D0474003B662C /* landmarkDataRu.json */; };
+		6A50DCD5277DC044003B662C /* landmarkDataEn.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A50DCD4277DC044003B662C /* landmarkDataEn.json */; };
 		6A6B671F25A773B7002F08FD /* 37. Andhera-ghata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */; };
 		6A6B672225A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */; };
 		6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */; };
@@ -192,12 +194,15 @@
 		6A32496125093FD700802F43 /* 65. Srinivasa Acarya's Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "65. Srinivasa Acarya's Samadhi.jpg"; sourceTree = "<group>"; };
 		6A32496225093FD700802F43 /* 51. The entrance to Nidhuvana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "51. The entrance to Nidhuvana.jpg"; sourceTree = "<group>"; };
 		6A4CFC002694922800E8B48D /* logo 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo 1.jpg"; sourceTree = "<group>"; };
+		6A50DCD1277D0474003B662C /* landmarkDataRu.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = landmarkDataRu.json; sourceTree = "<group>"; };
+		6A50DCD4277DC044003B662C /* landmarkDataEn.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = landmarkDataEn.json; sourceTree = "<group>"; };
 		6A6B671E25A773B7002F08FD /* 37. Andhera-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "37. Andhera-ghata.jpg"; sourceTree = "<group>"; };
 		6A6B672125A77552002F08FD /* 39. Syamananda Tilaka Sthana and Samadhe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "39. Syamananda Tilaka Sthana and Samadhe.jpg"; sourceTree = "<group>"; };
 		6A6B672425A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "40. Srngara Vata or Nityananda Vata.jpg"; sourceTree = "<group>"; };
 		6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "83. Gadadhara Dant Samadhi.jpg"; sourceTree = "<group>"; };
 		6A6B672A25A77980002F08FD /* 67. Dhira Samira-ghata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "67. Dhira Samira-ghata.jpg"; sourceTree = "<group>"; };
 		6A8B5BFA273D31B40030A7EC /* ButtonDirection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDirection.swift; sourceTree = "<group>"; };
+		6AD2DD19276289FF00526804 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		B7394862229F194000C47603 /* HP Navigator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HP Navigator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7394865229F194000C47603 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7394867229F194000C47603 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -404,6 +409,8 @@
 				6A32493E25093FCC00802F43 /* 82. Akrura-ghata.jpg */,
 				6A6B672725A777DB002F08FD /* 83. Gadadhara Dant Samadhi.jpg */,
 				B739488E229F292E00C47603 /* landmarkData.json */,
+				6A50DCD1277D0474003B662C /* landmarkDataRu.json */,
+				6A50DCD4277DC044003B662C /* landmarkDataEn.json */,
 				B7394890229F292F00C47603 /* chilkoottrail.jpg */,
 				B739488F229F292F00C47603 /* chincoteague.jpg */,
 				B739488A229F292E00C47603 /* hiddenlake.jpg */,
@@ -464,6 +471,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = B7394859229F194000C47603;
 			productRefGroup = B7394863229F194000C47603 /* Products */;
@@ -480,6 +488,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A50DCD5277DC044003B662C /* landmarkDataEn.json in Resources */,
 				6A32498025093FD800802F43 /* 34. Paurnamasi devi.jpg in Resources */,
 				6A32496825093FD700802F43 /* 77. Pani-ghata.jpg in Resources */,
 				6A32496725093FD700802F43 /* 36. Bankhandi Mahadeva.jpg in Resources */,
@@ -550,6 +559,7 @@
 				B7394899229F292F00C47603 /* twinlake.jpg in Resources */,
 				6A6B672525A776DF002F08FD /* 40. Srngara Vata or Nityananda Vata.jpg in Resources */,
 				B7394896229F292F00C47603 /* umbagog.jpg in Resources */,
+				6A50DCD2277D0474003B662C /* landmarkDataRu.json in Resources */,
 				6A32499E25093FD800802F43 /* 25. Asta-sakhi Temple.jpg in Resources */,
 				6A32499725093FD800802F43 /* 41. The entrance  Jaru Mandala.jpg in Resources */,
 				6A32497225093FD800802F43 /* 28. Lord Nrsimhadeva.jpg in Resources */,
@@ -606,6 +616,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B7394871229F194200C47603 /* Base */,
+				6AD2DD19276289FF00526804 /* ru */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -618,6 +629,7 @@
 			baseConfigurationReference = FB75835CADF255844DAD0DAD /* SampleCode.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -680,6 +692,7 @@
 			baseConfigurationReference = FB75835CADF255844DAD0DAD /* SampleCode.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
